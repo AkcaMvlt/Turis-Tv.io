@@ -1,13 +1,13 @@
 # la tele
-## Sitio: https://akcamvlt.github.io/Turis-Tv.io/
+## Sitio: https://alplox.github.io/la-tele/
 
-[![](https://github.com/AkcaMvlt/Turis-Tv.io/blob/main/assets/img/v0.9.jpg)](https://akcamvlt.github.io/Turis-Tv.io/)
+[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/v0.9.jpg)](https://alplox.github.io/la-tele/)
 
 ## Listado canales disponibles junto a su fuente
 <details>
 <summary>Canales</summary>
 
-- [Turis](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ)
+- [24 Horas](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ)
 - [24 Horas 2](https://www.24horas.cl/envivo/) - [x](https://www.m3u.cl/iptv-chile.php)
 - [24 Horas 3](https://www.24horas.cl/envivo/) - [x](https://www.m3u.cl/iptv-chile.php)
 - [24 Horas 4](https://www.twitch.tv/24horas_tvn)
@@ -187,6 +187,6 @@
 ```
 
 ## Licencia
-⚖️ [MIT License](https://github.com/AkcaMvlt/Turis-Tv.io/blob/main/LICENSE)
+⚖️ [MIT License](https://github.com/Alplox/la-tele/blob/main/LICENSE)
 
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/la-tele)](https://badges.strrl.dev)
