@@ -1,5 +1,5 @@
 # la tele
-## Sitio: https://akcamvlt.github.io/Turis-Tv.io/
+## Sitio: https://alplox.github.io/la-tele/
 
 [![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/v0.9.jpg)](https://alplox.github.io/la-tele/)
 
@@ -187,6 +187,6 @@
 ```
 
 ## Licencia
-⚖️ [MIT License](https://akcamvlt.github.io/Turis-Tv.io/blob/main/LICENSE)
+⚖️ [MIT License](https://github.com/Alplox/la-tele/blob/main/LICENSE)
 
 [![Visits Badge](https://badges.strrl.dev/visits/Alplox/la-tele)](https://badges.strrl.dev)
