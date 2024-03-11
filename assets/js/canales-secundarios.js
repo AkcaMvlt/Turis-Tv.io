@@ -41,8 +41,7 @@ let m3u = `
 #EXTM3U
 #EXTINF:-1 tvg-id="4" tvg-name="Turis Tv" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Turid Tv* | CL
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 2 * | CL
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+- [Turis123](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ)
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 * | CL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV * | CL
