@@ -1,7 +1,7 @@
 # la tele
-## Sitio: https://akcamvlt.github.io/Turis-Tv.io/
+## Sitio: https://alplox.github.io/la-tele/
 
-[![](https://raw.githubusercontent.com/AkcaMvlt/Turis-Tv.io/main/assets/img/v0.9.jpg)](https://akcamvlt.github.io/Turis-Tv.io/)
+[![](https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/v0.9.jpg)](https://alplox.github.io/la-tele/)
 
 ## Listado canales disponibles junto a su fuente
 <details>
