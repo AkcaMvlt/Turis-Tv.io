@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="es">
+<!-- 
+    la tele por Alplox
+    https://github.com/Alplox/la-tele (v0.9)
+-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base target="_blank">
+    <link rel="stylesheet" href="https://unpkg.com/modern-normalize@1.1.0/modern-normalize.css">
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <script src="assets/js/canales-secundarios.js"></script>
+    <link href="https://unpkg.com/video.js/dist/video-js.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/video.js/dist/video.min.js"></script>
+    <!--favicon-->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <meta name="theme-color" content="#051320" />
+    <!-- Primary Meta Tags -->
+    <title>La tele</title>
+    <meta name="title" content="La tele">
+    <meta name="description" content="Canales de Chile a un toque.">
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://alplox.github.io/la-tele/">
+    <meta property="og:title" content="La tele">
+    <meta property="og:description" content="Canales de Chile a un toque.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/v0.9.jpg">
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://alplox.github.io/la-tele/">
+    <meta property="twitter:title" content="La tele">
+    <meta property="twitter:description" content="Canales de Chile a un toque.">
+    <meta property="twitter:image"
+        content="https://raw.githubusercontent.com/Alplox/la-tele/master/assets/img/v0.9.jpg">
+
+    <script type="module">
+        import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+        const el = document.createElement('pwa-update');
+        el.swpath= "pwabuilder-sw.js"
+        el.updatemessage = "Nueva versión disponible";
+        document.body.appendChild(el);
+    </script>
+
+    <script src="https://unpkg.com/akar-icons-fonts"></script>
+</head>
+
+<body>
+    <noscript>
+        <div class="no-js">
+            <p>El sitio <b>no</b> funciona sin <b>JavaScript</b>.</p>
+            <p>Si lo has deshabilitado, por favor <b>vuelve a activarlo</b>.</p>
+            <div class="wave"></div>
+        </div>
+    </noscript>
+
+    <header class="header-principal">
+        <h1>
+            <a href="./" target="_self">La tele</a>
+        </h1>
+        <p>
+            <strong>Probar otro visor: </strong>
+            <a href="https://alplox.github.io/teles/" rel="nofollow noreferrer noopener" target="_self">teles</a>
+        </p>
+    </header>
+
+    <main>
+        <div class="grid">
+            <div class="video-container sombra">
+                <div class="overlay d-none">
+                    <div class="barra-nombre" id="barra-nombre"></div>
+                    <button role="button" class="btn btn-quitar-señal" id="btn-quitar-señal" title="Elimina señal activa">
+                        <span><i class="ai-cross"></i></span>
+                    </button>
+                </div>
+                <div class="container-transmision" id="container-transmision"></div>
+                <p class="recordatorio" id="recordatorio">
+                    Selecci<svg xmlns="http://www.w3.org/2000/svg" width="calc(1.6rem + 1.7vw)" height="calc(1.6rem + 1.7vw)" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width=".7" stroke-linecap="round" stroke-linejoin="round" class="ai ai-CircleTriangleRight"><circle cx="12" cy="12" r="10"/><path d="M16 12l-6-4v8l6-4z"/></svg>na un canal 
+                </p>
+            </div>
+
+            <aside class="canales-container sombra">
+                <header class="header-secundario">
+                    <h2>Canales</h2>
+                    <input class="filtro" id="filtro" type="search" title="Buscador" placeholder="Buscar">
+                </header>
+
+                <div class="flip-container" id="flip-container">
+                    <div class="flipper" id="flipper">
+                        <div class="lista-botones front" id="lista-botones"></div>
+                        <div class="lista-botones back" id="lista-botones-m3u8"></div>
+                    </div>
+                </div>
+
+                <div class="opciones-container">
+                    <button role="button" class="btn btn-alternar" id="btn-alternar" title="Alternar entre lista IPTV">
+                       Alternar Listado 
+                    </button>
+                    <button role="button" class="btn btn-overlay" id="btn-overlay" title="Nombre sobre transmisiones on/off">
+                        Overlay <span id="span-overlay"></span>
+                    </button>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <footer>
+        <button id="boton-legal" class="btn btn-legal">Aviso Legal</button>
+        <div>
+            <a href="https://github.com/Alplox/la-tele" rel="nofollow noreferrer noopener">Desarrollado por Alplox</a>
+            <span><i class="ai-heart"></i></span>
+            <a href="https://github.com/Alplox/la-tele#listado-canales-disponibles-junto-a-su-fuente"
+            rel="nofollow noreferrer noopener">Ver fuentes
+            transmisiones</a>
+        </div>
+    </footer>
+
+    <!-- Modal -->
+    <div id="modal-legal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <span><i class="ai-cross"></i></span>
+                <h1>Descargo de responsabilidad</h1>
+            </div>
+            <div class="modal-body">
+                <ul>
+                    <li>"la tele" es un proyecto de código abierto gratuito que permite gestionar canales de televisión
+                        de libre acceso por Internet.</li>
+                    <li>"la tele" no decodifica transmisiones. Los enlaces que figuran en este proyecto son procesados
+                        desde diferentes sitios públicos con libre distribución/acceso.</li>
+                    <li>"la tele" no posee ningún tipo de monetización, en consecuencia, no se lucra de ninguna forma o
+                        medio.</li>
+                    <li>El proyecto cuenta con reproductores multimedia, los que no corresponden a una retransmisión
+                        de los canales ni implica la decodificación de éstos.</li>
+                    <li>No se es propietario, ni responsable de ninguno de los contenidos emitidos por parte de cada
+                        canal.</li>
+                    <li>"la tele" no ofrece canales de pago bajo ninguna modalidad.</li>
+                    <li>En este proyecto no se almacena ninguna transmisión.</li>
+                    <li>El proyecto tanto como sus mantenedores no asumen responsabilidad alguna respecto a los
+                        derechos de propiedad
+                        intelectual que se vean infringidos por un tercero o por cualquier usuario.</li>
+                    <li>El usuario por defecto tiene la capacidad de dirigirse al sitio oficial de cada transmisión
+                        en todo
+                        momento.</li>
+                    <li>Si posees los derechos de algún canal y deseas que sea retirado, <a
+                            href="https://github.com/Alplox/la-tele/issues" rel="nofollow noreferrer"> contáctame</a>.
+                    </li>
+                </ul>
+                <p>&mdash; Si quieres conocer el origen de cada livestream visita el <a
+                        href="https://github.com/Alplox/la-tele#listado-canales-disponibles-junto-a-su-fuente"
+                        rel="noopener nofollow noreferrer">repositorio
+                        GitHub <i class="ai-github-fill"></i></a> de la página.</p>
+                <div class="center">
+                    <button type="button" class="btn btn-entendido"
+                        id="btn-entendido">Entendido</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="assets/js/main.js"></script>
+</body>
+</html>
