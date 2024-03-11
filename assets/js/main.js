@@ -198,7 +198,7 @@ window.addEventListener('DOMContentLoaded', () => {
 })
 
 // PARA LISTADO PRIMARIO
-fetch('https://raw.githubusercontent.com/Alplox/la-tele/main/assets/js/canales.json')
+fetch('https://raw.githubusercontent.com/AkcaMvlt/Turis-Tv.io/718c57496ecc146f5cc5614c8b6725acd34515b9/assets/js/canales-secundarios.js')
   .then(response => response.json())
   .then(data => {
     let fragmentBtns = document.createDocumentFragment();
