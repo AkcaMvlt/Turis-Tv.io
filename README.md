@@ -7,7 +7,7 @@
 <details>
 <summary>Canales</summary>
 
-- [24 Horas](https://www.youtube.com/channel/UCTXNz3gjAypWp3EhlIATEJQ)
+- [Ceylan](https://www.youtube.com/channel/QwW63jaHG2A)
 - [24 Horas 2](https://www.24horas.cl/envivo/) - [x](https://www.m3u.cl/iptv-chile.php)
 - [24 Horas 3](https://www.24horas.cl/envivo/) - [x](https://www.m3u.cl/iptv-chile.php)
 - [24 Horas 4](https://www.twitch.tv/24horas_tvn)
