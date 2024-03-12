@@ -39,9 +39,9 @@ function m3utojson(m3u) {
 // https://www.m3u.cl/iptv-chile.php
 let m3u = `
 #EXTM3U
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV * | CL
+#EXTINF:-1 tvg-id="4" tvg-name="Turis Tv" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Turis Tv * | CL
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 2 * | CL
+#EXTINF:-1 tvg-id="5" tvg-name="Turis Tv 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Turis Tv 2 * | CL
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 * | CL
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
