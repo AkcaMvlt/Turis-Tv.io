@@ -39,40 +39,40 @@ function m3utojson(m3u) {
 // https://www.m3u.cl/iptv-chile.php
 let m3u = `
 #EXTM3U
-#EXTINF:-1 tvg-id="4" tvg-name="Turis Tv" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Turis Tv * | CL
-https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Turis Tv 2" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Turis Tv 2 * | CL
-https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", Retro Plus TV Señal 3 * | CL
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV * | CL
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 tvg-id="1255" tvg-name="VClassicTV Tropical" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png", VClassicTV Tropical * | CL
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://i2.paste.pics/6abc319563c207c4ba1fb2c199fedd86.png", Portal FoxMix * | CL
-https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-id="1436" tvg-name="Apanines TV" tvg-logo="https://i2.paste.pics/eee2cbc0f52cbb9c7c73ee13f72c0b96.png", Apanines TV * | CL
-https://inliveserver.com:1936/10010/10010/playlist.m3u8
-#EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://i2.paste.pics/e3cde58abf314e0e6b17b595c357936a.png", Spectrum Channel * | CL
-https://panel.miplay.cl:8081/spectrumchannel/index.m3u8
-#EXTINF:-1 tvg-id="1112" tvg-name="Fanpop TV" tvg-logo="https://i2.paste.pics/5d6d67c298360548fd41a897f987628c.png", Fanpop TV * | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek" tvg-logo="https://i2.paste.pics/5efe361b75000b6eb6104bf22a0880fe.png", EnerGeek * | CL
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="KRAL POP" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", KRAL POP * | CL
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="MAVI KARADENIZ" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", MAVI KARADENIZ * | CL
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
+#EXTINF:-1 tvg-id="465" tvg-name="MILJON TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", MILJON TV* | CL
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
+#EXTINF:-1 tvg-id="1160" tvg-name="MUZ TV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", MUZ TV* | CL
+https://az2.canlitvplayer.com/azerbaijan/muztv/chunks.m3u8
+#EXTINF:-1 tvg-id="1255" tvg-name="POWER DANCE" tvg-logo="https://i2.paste.pics/355ba171055dd0e6747131673432cc18.png", POWER DANCE * | CL
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name=">POWER LOVE" tvg-logo="https://i2.paste.pics/6abc319563c207c4ba1fb2c199fedd86.png", >POWER LOVE* | CL
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1436" tvg-name="POWER TV" tvg-logo="https://i2.paste.pics/eee2cbc0f52cbb9c7c73ee13f72c0b96.png", POWER TV * | CL
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="1058" tvg-name="POWER TÛRK AKUSTIK" tvg-logo="https://i2.paste.pics/e3cde58abf314e0e6b17b595c357936a.png", POWER TÛRK AKUSTIK * | CL
+https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playist.m3u8
+#EXTINF:-1 tvg-id="1112" tvg-name="POWER TÛRK SLOW" tvg-logo="https://i2.paste.pics/5d6d67c298360548fd41a897f987628c.png", POWER TÛRK SLOW * | CL
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunklist_b1028000_sltur.m3u8?nimblesessionid=1382128269
+#EXTINF:-1 tvg-id="947" tvg-name="POWER TÛRK TAPTAZE" tvg-logo="https://i2.paste.pics/5efe361b75000b6eb6104bf22a0880fe.png", POWER TÛRK TAPTAZE * | CL
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playist.m3u8
 #EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i.paste.pics/4a15cf6d76aaf3246f3a6cedd48e0ac9.png", EnerGeek Radio * | CL
 https://stream.wifiexpert.cl/energeek/radio/playlist.m3u8
-#EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", Moni TV * | CL
-https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://i2.paste.pics/3d543690d890b9a5918a8025aebcf2bc.png", Terror TV * | CL
-https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://i2.paste.pics/004835d0c1a19dd14fa643dd18897d4d.png", Ruidos TV * | CL
-https://panel.tvstream.cl:1936/8022/8022/playlist.m3u8
-#EXTINF:-1 tvg-id="1312" tvg-name="Eternal Metal" tvg-logo="https://i.paste.pics/8504c462729d61af6e1f0b59323f9a85.png", Eternal Metal * | CL
-https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://i2.paste.pics/f5a6133c6b0fcec076105dfd2508549c.png", Latinos Radio * | CL
-https://stmv2.zcasthn.com.br/latinosmedia/latinosmedia/playlist.m3u8
-#EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV Music" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Music * | CL
-https://scl.edge.grupoz.cl/music/live/music.m3u8
+#EXTINF:-1 tvg-id="1300" tvg-name="POWER TÜRK" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png", POWER TÜRK * | CL
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="1420" tvg-name="RIZE TÛRK" tvg-logo="https://i2.paste.pics/3d543690d890b9a5918a8025aebcf2bc.png",RIZE TÛRK* | CL
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="TATLISES" tvg-logo="https://i2.paste.pics/004835d0c1a19dd14fa643dd18897d4d.png", TATLISES * | CL
+https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/chunks.m3u8
+#EXTINF:-1 tvg-id="1312" tvg-name="TRT MÛZIK" tvg-logo="https://i.paste.pics/8504c462729d61af6e1f0b59323f9a85.png", TRT MÛZIK* | CL
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="996" tvg-name="YANSIMA MÛZIK" tvg-logo="https://i2.paste.pics/f5a6133c6b0fcec076105dfd2508549c.png", YANSIMA MÛZIK * | CL
+https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
+#EXTINF:-1 tvg-id="1014" tvg-name="YANSIMA MÛZIK" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", YANSIMA MÛZIK * | CL
+https://ssh101.bozztv.com/ssh101/yansimamuzik/chunks.m3u8
 #EXTINF:-1 tvg-id="1016" tvg-name="PlanetaTV Movies" tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", PlanetaTV Movies * | CL
 https://scl.edge.grupoz.cl/movie/live/movie.m3u8
 #EXTINF:-1 tvg-id="1424" tvg-name="Parentesis TV" tvg-logo="https://i2.paste.pics/d94a5f7f1913eea53167784065b56aee.png", Parentesis TV * | CL
