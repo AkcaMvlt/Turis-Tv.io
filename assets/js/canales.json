@@ -74,26 +74,26 @@
         "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
         "pais": "cl"
     },
-    "mega": {
-        "nombre": "Mega",
-        "m3u8_url": "https://marine2.miplay.cl/mega/index.m3u8",
+    "360 Tv": {
+        "nombre": "360 Tv",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
     },
-    "mega-2": {
-        "nombre": "Mega 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+    "Tv 4": {
+        "nombre": "Tv 4",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
     },
-    "t13": {
-        "nombre": "T13",
+    "Bos": {
+        "nombre": "Bos",
         "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
         "pais": "cl"
     },
-    "t13-2": {
-        "nombre": "T13 2",
-        "iframe_url": "https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io",
+    "Brt 1": {
+        "nombre": "Brt 1",
+        "iframe_url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8",
         "fuente": "https://www.twitch.tv/t13envivo",
         "pais": "cl"
     },
