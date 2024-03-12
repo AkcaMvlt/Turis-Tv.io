@@ -16,27 +16,27 @@
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-4": {
-        "nombre": "24 horas 4",
-        "iframe_url": "https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io",
+    "Flash Tv": {
+        "nombre": "Flash Tv",
+        "iframe_url": "https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8",
         "fuente": "https://www.twitch.tv/24horas_tvn",
         "pais": "cl"
     },
-    "24-horas-5": {
-        "nombre": "24 horas 5",
-        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
+    "Teve 2": {
+        "nombre": "Teve 2",
+        "iframe_url": "https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-6": {
-        "nombre": "24 horas 6",
-        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
+    "Tv Em": {
+        "nombre": "Tv Em",
+        "iframe_url": "https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-s2": {
-        "nombre": "24 Horas s2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8",
+    "Trt Türk": {
+        "nombre": "Trt Türk",
+        "m3u8_url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
