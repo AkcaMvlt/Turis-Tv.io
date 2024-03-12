@@ -40,37 +40,37 @@
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-s2-2": {
-        "nombre": "24 Horas s2 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8",
+    "Trt Avaz": {
+        "nombre": "Trt Avaz",
+        "m3u8_url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "tvn": {
-        "nombre": "TVN",
+    "Bos": {
+        "nombre": "Bos",
         "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
         "pais": "cl"
     },
-    "tvn-2": {
-        "nombre": "TVN 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+    "Tbmm": {
+        "nombre": "Tbmm",
+        "m3u8_url": "https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "meganoticias": {
-        "nombre": "Meganoticias",
-        "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
+    "Ibrahim Tatlises": {
+        "nombre": "Ibrahim Tatlises",
+        "yt_id": "VNZuTrvXfPE",
         "pais": "cl"
     },
-    "meganoticias-2": {
-        "nombre": "Meganoticias 2",
-        "iframe_url": "https://player.twitch.tv/?channel=meganoticiascl&parent=alplox.github.io",
+    "Dmax": {
+        "nombre": "Dmax",
+        "iframe_url": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
         "fuente": "https://www.twitch.tv/meganoticiascl",
         "pais": "cl"
     },
-    "meganoticias-3": {
-        "nombre": "Meganoticias 3",
-        "iframe_url": "https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0",
+    "Tlc": {
+        "nombre": "Tlc",
+        "iframe_url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
         "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
         "pais": "cl"
     },
