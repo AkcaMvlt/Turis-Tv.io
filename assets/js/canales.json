@@ -4,44 +4,44 @@
         "yt_id": "WvWV4D7Me29WjnQanRNAyg",
         "pais": "cl"
     },
-    "Trt 1": {
-        "nombre": "Trt 1",
+    "Trt-1": {
+        "nombre": "Trt-1",
         "m3u8_url": "https://tv-trt1-dai.medya.trt.com.tr/master.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "Kanal D": {
-        "nombre": "Kanal D",
+    "Kanal-D": {
+        "nombre": "Kanal-D",
         "m3u8_url": "https://demiroren-live.daioncdn.net/kanald/kanald.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "Flash Tv": {
-        "nombre": "Flash Tv",
+    "Flash-Tv": {
+        "nombre": "Flash-Tv",
         "iframe_url": "https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8",
         "fuente": "https://www.twitch.tv/24horas_tvn",
         "pais": "cl"
     },
-    "Teve 2": {
-        "nombre": "Teve 2",
+    "Teve-2": {
+        "nombre": "Teve-2",
         "iframe_url": "https://demiroren.daioncdn.net/teve2/teve2.m3u8?app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "Tv Em": {
-        "nombre": "Tv Em",
+    "Tv-Em": {
+        "nombre": "Tv-Em",
         "iframe_url": "https://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "Trt Türk": {
-        "nombre": "Trt Türk",
+    "Trt-Türk": {
+        "nombre": "Trt-Türk",
         "m3u8_url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "Trt Avaz": {
-        "nombre": "Trt Avaz",
+    "Trt-Avaz": {
+        "nombre": "Trt-Avaz",
         "m3u8_url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
@@ -57,8 +57,8 @@
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "Ibrahim Tatlises": {
-        "nombre": "Ibrahim Tatlises",
+    "Ibrahim-Tatlises": {
+        "nombre": "Ibrahim-Tatlises",
         "yt_id": "VNZuTrvXfPE",
         "pais": "cl"
     },
@@ -74,14 +74,14 @@
         "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
         "pais": "cl"
     },
-    "360 Tv": {
-        "nombre": "360 Tv",
+    "360-Tv": {
+        "nombre": "360-Tv",
         "m3u8_url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
     },
-    "Tv 4": {
-        "nombre": "Tv 4",
+    "Tv-4": {
+        "nombre": "Tv-4",
         "m3u8_url": "https://turkmedya-live.ercdn.net/tv4/tv4.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
@@ -91,8 +91,8 @@
         "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
         "pais": "cl"
     },
-    "Brt 1": {
-        "nombre": "Brt 1",
+    "Brt-1": {
+        "nombre": "Brt-1",
         "iframe_url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/chunklist.m3u8",
         "fuente": "https://www.twitch.tv/t13envivo",
         "pais": "cl"
@@ -103,14 +103,14 @@
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
     },
-    "Tv 24": {
-        "nombre": "Tv 24",
+    "Tv-24": {
+        "nombre": "Tv-24",
         "m3u8_url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
     },
-    "Akit Tv": {
-        "nombre": "Akit Tv",
+    "Akit-Tv": {
+        "nombre": "Akit-Tv",
         "iframe_url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
@@ -126,8 +126,8 @@
         "fuente": "https://www.13.cl/en-vivo",
         "pais": "cl"
     },
-    "Finans Türk": {
-        "nombre": "Finans Türk",
+    "Finans-Türk": {
+        "nombre": "Finans-Türk",
         "iframe_url": "https://tv.digitalbox.xyz:19360/finansturktv/finansturktv.m3u8",
         "fuente": "https://www.13.cl/en-vivo",
         "pais": "cl"
@@ -142,14 +142,14 @@
         "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
         "pais": "cl"
     },
-    "Haber Türk": {
-        "nombre": "Haber Türk",
+    "Haber-Türk": {
+        "nombre": "Haber-Türk",
         "m3u8_url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8",
         "fuente": "https://pluto.tv/es/live-tv/chilevision-noticias",
         "pais": "cl"
     },
-    "Halk Tv": {
-        "nombre": "Halk Tv",
+    "Halk-Tv": {
+        "nombre": "Halk-Tv",
         "m3u8_url": "https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=4z4pzo8zd54w&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
@@ -165,20 +165,20 @@
         "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
         "pais": "cl"
     },
-    "Trt Haber": {
-        "nombre": "Trt Haber",
+    "Trt-Haber": {
+        "nombre": "Trt-Haber",
         "iframe_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "Tv Net": {
-        "nombre": "Tv Net",
+    "Tv-Net": {
+        "nombre": "Tv-Net",
         "m3u8_url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "Yol Tv": {
-        "nombre": "Yol Tv",
+    "Yol-Tv": {
+        "nombre": "Yol-Tv",
         "iframe_url": "https://stream.yol.tv:9443/medialive/yol.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
