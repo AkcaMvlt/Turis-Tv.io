@@ -154,32 +154,32 @@
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
     },
-    "chv-noticias-4": {
-        "nombre": "CHV Noticias 4",
-        "iframe_url": "https://rudo.video/live/chvn",
+    "Ntv": {
+        "nombre": "Ntv",
+        "iframe_url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
     },
-    "chv": {
-        "nombre": "CHV",
+    "Bos": {
+        "nombre": "Bos",
         "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
         "pais": "cl"
     },
-    "chv-2": {
-        "nombre": "CHV 2",
-        "iframe_url": "https://chvv--hofece7009.repl.co/",
+    "Trt Haber": {
+        "nombre": "Trt Haber",
+        "iframe_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "chv-3": {
-        "nombre": "CHV 3",
-        "m3u8_url": "https://marine2.miplay.cl/chilevision/index.m3u8",
+    "Tv Net": {
+        "nombre": "Tv Net",
+        "m3u8_url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "chv-4": {
-        "nombre": "CHV 4",
-        "iframe_url": "https://www.viendotele.cl/assets-tele/chv.html",
+    "Yol Tv": {
+        "nombre": "Yol Tv",
+        "iframe_url": "https://stream.yol.tv:9443/medialive/yol.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
