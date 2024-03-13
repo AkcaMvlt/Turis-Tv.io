@@ -1,20 +1,99 @@
 {
-    "Turis Yeni": {
-        "nombre": "Turis Yeni",
+    " 24 TV": {
+        "nombre": " 24 TV",
         "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
         "pais": "cl"
     },
-    "Turis Yeni 2": {
-        "nombre": "Turis Yeni 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
+    "24 TV": {
+        "nombre": "24 TV",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "Turis Yeni 3": {
-        "nombre": "Turis Yeni 3",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8",
+    "AKIT TV": {
+        "nombre": "AKIT TV",
+        "m3u8_url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
+
+    },
+    "BLOOMBERG TV": {
+        "nombre": "BLOOMBERG TV",
+        "m3u8_url": "https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "HABER TÛRK": {
+        "nombre": "HABER TÛRK",
+        "m3u8_url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_1080p.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "HALK TV": {
+        "nombre": "HALK TV",
+        "m3u8_url": "https://halktv.daioncdn.net/halktv/halktv_720p.m3u8?sid=4z4pzo8zd54w&app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "TGRT HABER": {
+        "nombre": "TGRT HABER",
+        "m3u8_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b200000.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "NTV TV": {
+        "nombre": "NTV TV",
+        "m3u8_url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "TRT HABER": {
+        "nombre": "TRT HABER",
+        "m3u8_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "TV NET": {
+        "nombre": "TV NET",
+        "m3u8_url": "https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     },
     "Turis Yeni 4": {
