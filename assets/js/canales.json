@@ -1,6 +1,6 @@
 {
     "Turis Tv": {
-        "nombre": "24 horas",
+        "nombre": "Turis Tv",
         "yt_id": "UCS-7kHRFyAd7ERS9sey6deQ",
         "pais": "cl"
     },
@@ -52,44 +52,36 @@
         "m3u8_url": "https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
+
     },
-    "meganoticias": {
-        "nombre": "Meganoticias",
-        "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
-        "pais": "cl"
-    },
-    "meganoticias-2": {
-        "nombre": "Meganoticias 2",
-        "iframe_url": "https://player.twitch.tv/?channel=meganoticiascl&parent=alplox.github.io",
+    "SHOW TV": {
+        "nombre": "SHOW TV",
+        "iframe_url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
         "fuente": "https://www.twitch.tv/meganoticiascl",
         "pais": "cl"
     },
-    "meganoticias-3": {
-        "nombre": "Meganoticias 3",
-        "iframe_url": "https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0",
+    "KANAL 7": {
+        "nombre": "KANAL 7",
+        "iframe_url": "https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8",
         "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
         "pais": "cl"
     },
-    "mega": {
-        "nombre": "Mega",
-        "m3u8_url": "https://marine2.miplay.cl/mega/index.m3u8",
+    "KANAL 7": {
+        "nombre": "KANAL 7",
+        "m3u8_url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
     },
-    "mega-2": {
-        "nombre": "Mega 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+    "FOX TV": {
+        "nombre": "FOX TV",
+        "m3u8_url": "https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
+
     },
-    "t13": {
-        "nombre": "T13",
-        "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
-        "pais": "cl"
-    },
-    "t13-2": {
-        "nombre": "T13 2",
-        "iframe_url": "https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io",
+    "FOX TV": {
+        "nombre": "FOX TV",
+        "iframe_url": "https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8",
         "fuente": "https://www.twitch.tv/t13envivo",
         "pais": "cl"
     },
