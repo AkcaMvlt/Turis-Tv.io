@@ -1,98 +1,98 @@
 {
     "Turis Tv": {
-        "nombre": "Turis Tv",
+        "nombre": "📷 Turis Tv",
         "yt_id": "UCS-7kHRFyAd7ERS9sey6deQ",
         "pais": "cl"
     },
     "TRT 1 HD": {
-        "nombre": "TRT 1 HD",
+        "nombre": "📷 TRT 1 HD",
         "m3u8_url": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
     "TRT 1 FHD": {
-        "nombre": "TRT 1 FHD",
+        "nombre": "📷 TRT 1 FHD",
         "m3u8_url": "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
     "TRT 1 HD": {
-        "nombre": "TRT 1 HD",
+        "nombre": "📷 TRT 1 HD",
         "iframe_url": "https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8",
         "fuente": "https://www.twitch.tv/24horas_tvn",
         "pais": "cl"
     },
     "TRT 1 FHD": {
-        "nombre": "TRT 1 FHD",
+        "nombre": "📷 TRT 1 FHD",
         "iframe_url": "https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
     "KANAL D HD": {
-        "nombre": "KANAL D HD",
+        "nombre": "📷 KANAL D",
         "iframe_url": "https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
     "KANAL D FHD": {
-        "nombre": "KANAL D FHD",
+        "nombre": "📷 KANAL D",
         "m3u8_url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
     "STAR TV ": {
-        "nombre": "STAR TV ",
+        "nombre": "📷 STAR TV ",
         "m3u8_url": "https://dogus-live.daioncdn.net/startv/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
  
     },
     "SHOW TV": {
-        "nombre": "SHOW TV",
+        "nombre": "📷 SHOW TV",
         "m3u8_url": "https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
 
     },
     "SHOW TV": {
-        "nombre": "SHOW TV",
+        "nombre": "📷 SHOW TV",
         "iframe_url": "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
         "fuente": "https://www.twitch.tv/meganoticiascl",
         "pais": "cl"
     },
     "KANAL 7": {
-        "nombre": "KANAL 7",
+        "nombre": "📷 KANAL 7",
         "iframe_url": "https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8",
         "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
         "pais": "cl"
     },
     "KANAL 7": {
-        "nombre": "KANAL 7",
+        "nombre": "📷 KANAL 7",
         "m3u8_url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
     },
-    "FOX TV": {
-        "nombre": "FOX TV",
+    "FOX TV1": {
+        "nombre": "📷 FOX TV1",
         "m3u8_url": "https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
 
     },
-    "FOX TV": {
-        "nombre": "FOX TV",
+    "FOX TV1": {
+        "nombre": "📷 FOX TV1",
         "iframe_url": "https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8",
         "fuente": "https://www.twitch.tv/t13envivo",
         "pais": "cl"
     },
     "360 TV": {
-        "nombre": "360 TV",
+        "nombre": "📷 360 TV",
         "m3u8_url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
     },
     "360 TV": {
-        "nombre": "360 TV",
+        "nombre": "📷 360 TV",
         "m3u8_url": "https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
@@ -142,27 +142,27 @@
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "chv-3": {
-        "nombre": "CHV 3",
-        "m3u8_url": "https://marine2.miplay.cl/chilevision/index.m3u8",
+    "TRT BELGESEL": {
+        "nombre": "TRT BELGESEL",
+        "m3u8_url": "https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "chv-4": {
-        "nombre": "CHV 4",
-        "iframe_url": "https://www.viendotele.cl/assets-tele/chv.html",
+    "TRT BELGESEL HD": {
+        "nombre": "TRT BELGESEL HD",
+        "iframe_url": "https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "la-red": {
-        "nombre": "La Red",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+    "TLC HD": {
+        "nombre": "TLC HD",
+        "m3u8_url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
         "fuente": "https://www.lared.cl/senal-online",
         "pais": "cl"
     },
-    "cooperativa": {
-        "nombre": "📻 Cooperativa",
-        "iframe_url": "https://rudo.video/live/coopetv?volume=0&mute=1",
+    "TLC HD Y": {
+        "nombre": "📻 TLC HD Y",
+        "iframe_url": "https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8",
         "fuente": "http://programas.cooperativa.cl/showalairelibre/",
         "pais": "cl"
     },
