@@ -85,77 +85,60 @@
         "fuente": "https://www.twitch.tv/t13envivo",
         "pais": "cl"
     },
-    "t13-3": {
-        "nombre": "T13 3",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8",
+    "360 TV": {
+        "nombre": "360 TV",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
     },
-    "t13-4": {
-        "nombre": "T13 4",
-        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+    "360 TV": {
+        "nombre": "360 TV",
+        "m3u8_url": "https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
     },
-    "t13-5": {
-        "nombre": "T13 5",
-        "iframe_url": "https://rudo.video/live/t13",
+    "TV4 HD": {
+        "nombre": "TV4 HD",
+        "iframe_url": "https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
+
     },
-    "canal-13": {
-        "nombre": "Canal 13",
-        "yt_id": "UCd4D3LfXC_9MY2zSv_3gMgw",
-        "pais": "cl"
-    },
-    "canal-13-2": {
-        "nombre": "Canal 13 2",
-        "iframe_url": "https://13313131.tnvas.repl.co/",
+    "TV4 HD": {
+        "nombre": "TV4 HD",
+        "iframe_url": "https://tv4.blutv.com/blutv_tv4/live.m3u8",
         "fuente": "https://www.13.cl/en-vivo",
         "pais": "cl"
     },
-    "canal-13-3": {
-        "nombre": "Canal 13 3",
-        "iframe_url": "https://ainmcl.github.io/MonitorTV/Monitores/Senal/WEB/Se%C3%B1alCANAL13_IFRAME.html",
+    "TEVE 2": {
+        "nombre": "TEVE 2",
+        "iframe_url": "https://demiroren-live.daioncdn.net/teve2/teve2.m3u8",
         "fuente": "https://www.13.cl/en-vivo",
         "pais": "cl"
+
     },
-    "cnn-cl": {
-        "nombre": "CNN Chile",
-        "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-        "pais": "cl"
-    },
-    "chv-noticias": {
-        "nombre": "CHV Noticias",
-        "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
-        "pais": "cl"
-    },
-    "chv-noticias-2": {
-        "nombre": "CHV Noticias 2",
-        "m3u8_url": "https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8",
+    "TEVE 2": {
+        "nombre": "TEVE 2",
+        "m3u8_url": "https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8",
         "fuente": "https://pluto.tv/es/live-tv/chilevision-noticias",
         "pais": "cl"
     },
-    "chv-noticias-3": {
-        "nombre": "CHV Noticias 3",
-        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
+    "BEYAZ TV": {
+        "nombre": "BEYAZ TV",
+        "m3u8_url": "https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8",
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
     },
-    "chv-noticias-4": {
-        "nombre": "CHV Noticias 4",
-        "iframe_url": "https://rudo.video/live/chvn",
+    "BEYAZ TV": {
+        "nombre": "BEYAZ TV",
+        "iframe_url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
+
     },
-    "chv": {
-        "nombre": "CHV",
-        "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
-        "pais": "cl"
-    },
-    "chv-2": {
-        "nombre": "CHV 2",
-        "iframe_url": "https://chvv--hofece7009.repl.co/",
+    "TV 8": {
+        "nombre": "TV 8",
+        "iframe_url": "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
