@@ -166,21 +166,21 @@
         "fuente": "http://programas.cooperativa.cl/showalairelibre/",
         "pais": "cl"
     },
-    "bbtv": {
-        "nombre": "📻 Biobio TV",
-        "iframe_url": "https://rudo.video/live/bbtv?volume=0&mute=1",
+    "DMAX TV": {
+        "nombre": "📻 DMAX TV",
+        "iframe_url": "https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8",
         "fuente": "https://www.biobiochile.cl/biobiotv/",
         "pais": "cl"
     },
-    "bbtv-2": {
-        "nombre": "📻 Biobio TV 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8",
+    "DHD": {
+        "nombre": "📻 DHD",
+        "m3u8_url": "https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8",
         "fuente": "https://www.biobiochile.cl/biobiotv/",
         "pais": "cl"
     },
-    "adn": {
-        "nombre": "📻 ADN",
-        "iframe_url": "https://rudo.video/live/adntv?volume=0&mute=1",
+    "DOCUMAX BELGESEL": {
+        "nombre": "📻 DOCUMAX BELGESEL",
+        "iframe_url": "https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
     },
@@ -189,105 +189,105 @@
         "yt_id": "UCczkrFICr0xEgDsk51zZojA",
         "pais": "cl"
     },
-    "adn-3": {
-        "nombre": "📻 ADN 3",
-        "m3u8_url": "https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8",
+    "CNN TURK": {
+        "nombre": "📻 CNN TURK",
+        "m3u8_url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
     },
-    "adn-4": {
-        "nombre": "📻 ADN 4",
-        "m3u8_url": "https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8",
+    "NTV": {
+        "nombre": "📻 NTV",
+        "m3u8_url": "https://dogus-live.daioncdn.net/ntv/playlist.m3u8",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
     },
-    "adn-5": {
-        "nombre": "📻 ADN 5",
-        "m3u8_url": "https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8",
+    "HABER GLOBAL": {
+        "nombre": "📻 HABER GLOBAL",
+        "m3u8_url": "https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
     },
-    "duna": {
-        "nombre": "📻 Duna",
-        "iframe_url": "https://rudo.video/live/dunatv?volume=0&mute=1",
+    "HABER GLOBALF": {
+        "nombre": "📻 HABER GLOBALF",
+        "iframe_url": "https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/72/index.m3u8",
         "fuente": "https://www.duna.cl/tv/",
         "pais": "cl"
     },
-    "infinita": {
-        "nombre": "📻 Infinita",
-        "iframe_url": "https://rudo.video/live/infinitatv?volume=0&mute=1",
+    "HABER TURK": {
+        "nombre": "📻 HABER TURK",
+        "iframe_url": "https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8",
         "fuente": "http://www.infinita.cl/home/",
         "pais": "cl"
     },
-    "universo": {
-        "nombre": "📻 Universo",
-        "iframe_url": "https://rudo.video/live/universotv?volume=0&mute=1",
+    "HABERTÜRK": {
+        "nombre": "📻 HABERTÜRK",
+        "iframe_url": "https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/54/index.m3u8",
         "fuente": "https://www.universo.cl/",
         "pais": "cl"
     },
-    "radio-ae": {
-        "nombre": "📻 AE Radio DuocUC",
-        "iframe_url": "https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2?sound=0",
+    "TGRT HABER": {
+        "nombre": "📻 TGRT HABER",
+        "iframe_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8",
         "fuente": "https://www.aeradio.cl/",
         "pais": "cl"
     },
-    "carolina-tv": {
-        "nombre": "📻 Carolina TV",
-        "iframe_url": "https://rudo.video/live/carolinatv?volume=0&mute=1",
+    "TRT HABER": {
+        "nombre": "📻 TRT HABER",
+        "iframe_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
         "fuente": "https://www.carolina.cl/tv/",
         "pais": "cl"
     },
-    "carolina-tv-2": {
-        "nombre": "📻 Carolina TV 2",
-        "m3u8_url": "https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8",
+    "A HABER": {
+        "nombre": "📻 A HABER",
+        "m3u8_url": "http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8",
         "fuente": "https://www.carolina.cl/tv/",
         "pais": "cl"
     },
-    "carolina-tv-3": {
-        "nombre": "📻 Carolina TV 3",
-        "m3u8_url": "https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8",
+    "24 TV": {
+        "nombre": "📻 24 TV",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
         "fuente": "https://www.carolina.cl/tv/",
         "pais": "cl"
     },
-    "fm-tiempo": {
-        "nombre": "📻 FM Tiempo",
-        "iframe_url": "https://rudo.video/live/fmtiempotv?volume=0&mute=1",
+    "24 TVF": {
+        "nombre": "📻 24 TVF",
+        "iframe_url": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8",
         "fuente": "https://www.fmtiempo.cl/",
         "pais": "cl"
     },
-    "fm-tiempo-2": {
-        "nombre": "📻 FM Tiempo 2",
-        "m3u8_url": "https://unlimited10-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8",
+    "A HABER": {
+        "nombre": "📻 A HABER",
+        "m3u8_url": "https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8",
         "fuente": "https://www.fmtiempo.cl/",
         "pais": "cl"
     },
-    "alegria-tv": {
-        "nombre": "📻 Alegría TV",
-        "m3u8_url": "https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8",
+    "AKiT TV": {
+        "nombre": "📻 AKiT TV",
+        "m3u8_url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
         "fuente": "https://www.alegriafm.cl/",
         "pais": "cl"
     },
-    "alegria-tv-2": {
-        "nombre": "📻 Alegría TV 2",
-        "m3u8_url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
+    "ULKE TV": {
+        "nombre": "📻 ULKE TV",
+        "m3u8_url": "https://ulketv.blutv.com/blutv_ulketv2/live.m3u8",
         "fuente": "https://www.alegriafm.cl/",
         "pais": "cl"
     },
-    "romantica-tv": {
-        "nombre": "📻 Romántica TV",
-        "iframe_url": "https://rudo.video/live/romanticatv?volume=0&mute=1",
+    "HALK TV": {
+        "nombre": "📻 HALK TV",
+        "iframe_url": "https://halktvdvr.blutv.com/blutv_halktv2_dvr/live_720p2000000kbps/index.m3u8",
         "fuente": "https://www.romantica.cl/romantica-tv/",
         "pais": "cl"
     },
-    "romantica-tv-2": {
-        "nombre": "📻 Romántica TV 2",
-        "m3u8_url": "https://unlimited2-cl-isp.dps.live/romanticatv/romanticatv.smil/playlist.m3u8",
+    "SÖZCÜ TV": {
+        "nombre": "📻 SÖZCÜ TV",
+        "m3u8_url": "https://szctv.blutv.com/blutv_szctv/live_720p2000000kbps/index.m3u8",
         "fuente": "https://www.romantica.cl/romantica-tv/",
         "pais": "cl"
     },
-    "radio-genial": {
-        "nombre": "📻 Radio Genial 100.5 FM",
-        "m3u8_url": "https://v2.tustreaming.cl/genialtv/index.m3u8",
+    "TELE 1": {
+        "nombre": "📻 TELE 1",
+        "m3u8_url": "https://tele1.blutv.com/blutv_tele1_live/live_720p2000000kbps/index.m3u8",
         "fuente": "https://radiogenial.cl/",
         "pais": "cl"
     },
@@ -296,9 +296,9 @@
         "yt_id": "UCflUbt1g29kPG-H9SV5QIyw",
         "pais": "cl"
     },
-    "radio-la-clave": {
-        "nombre": "📻 Radio La Clave",
-        "iframe_url": "https://rudo.video/live/laclavetv?volume=0&mute=1",
+    "KRT TV": {
+        "nombre": "📻 KRT TV",
+        "iframe_url": "http://krt.blutv.com/blutv_krt_live/live_720p2000000kbps/index.m3u8",
         "fuente": "https://radiolaclave.cl/",
         "pais": "cl"
     },
@@ -312,39 +312,39 @@
         "yt_id": "UClMwb2kCYemWyDIZ2dYttKA",
         "pais": "cl"
     },
-    "sembrador": {
-        "nombre": "📻 El Sembrador",
-        "m3u8_url": "https://5eff35271151c.streamlock.net:1936/8064/8064/playlist.m3u8",
+    "BENGU TURK": {
+        "nombre": "📻 BENGU TURK",
+        "m3u8_url": "https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8",
         "fuente": "https://www.radioelsembrador.cl/tv/",
         "pais": "cl"
     },
-    "radio-nuble": {
-        "nombre": "📻 Radio Ñuble",
-        "m3u8_url": "https://live.tvcontrolcp.com:1936/Rnuble/Rnuble/playlist.m3u8",
+    "FLASH HABER": {
+        "nombre": "📻 FLASH HABER",
+        "m3u8_url": "https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8",
         "fuente": "http://radionuble.cl/linea/",
         "pais": "cl"
     },
-    "alternativa-fm": {
-        "nombre": "📻 Alternativa FM",
-        "m3u8_url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
+    "TURK HABER": {
+        "nombre": "📻 TURK HABER",
+        "m3u8_url": "https://edge1.socialsmart.tv/turkhaber/bant1/chunks.m3u8",
         "fuente": "https://www.alternativafm.cl/p/alternativa-tv.html",
         "pais": "cl"
     },
-    "prensa-presidencia": {
-        "nombre": "Prensa Presidencia",
-        "iframe_url": "https://mdstrm.com/live-stream/5dc17f8944795108a2a52a49?autoplay=true&volume=0",
+    "HABER 61": {
+        "nombre": "HABER 61",
+        "iframe_url": "http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8",
         "fuente": "https://prensa.presidencia.cl/streaming.aspx",
         "pais": "cl"
     },
-    "stgo-tv": {
-        "nombre": "Stgo TV",
-        "iframe_url": "https://stv.janus.cl/front/embed.html",
+    "KANAL 7 AVRUPA": {
+        "nombre": "KANAL 7 AVRUPA",
+        "iframe_url": "https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8",
         "fuente": "https://www.santiagotelevision.cl/",
         "pais": "cl"
     },
-    "tv-mas": {
-        "nombre": "TV+",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8",
+    "SHOW TÜRK": {
+        "nombre": "SHOW TÜRK",
+        "m3u8_url": "https://showturk.blutv.com/blutv_showturk2/live.m3u8",
         "fuente": "https://www.tvmas.tv/",
         "pais": "cl"
     },
