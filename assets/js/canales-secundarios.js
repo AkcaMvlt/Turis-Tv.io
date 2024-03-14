@@ -73,90 +73,60 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://ssh101.bozztv.com/ssh101/yansiimamuziktv/chunks.m3u8
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", VOSTOK TV* | CL
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", KRAL POP TV FHD* | CL
 http://dygvideo.dygdigital.com/live/hls/kralpop
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",KRAL POP TV HD* | CL
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",TRT MUZiK HD* | CL
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",DREAM TURK HD* | CL
 https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",TATLISES TV HD* | CL
 https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",NR 1 TURK HD* | CL
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",NR 1 DAMAR HD* | CL
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",NR 1 TV HD* | CL
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",POWER TURK HD* | CL
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",POWER TURK SLOW* | CL
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",POWER TV AKUSTiK* | CL
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",POWER TURK TAPTAZE* | CL
 https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",POWER DANCE HD* | CL
 https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",POWER LOVE HD* | CL
 https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",POWER TV HD* | CL
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",MiLYON TV* | CL
 https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",SLOW KARADENIZ TV HD* | CL
 https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",FORTUNA TV* | CL
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",BALKAN TÜRK   * | CL
 https://vdo.digitalbox.xyz:3248/live/brukselturktvlive.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",FiNEST TV   * | CL
 http://media.finest.tv/hls/live.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", DAMAR TV  * | CL
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", ARABESK TV  * | CL
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", SILA TV  * | CL
 https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", ZEYNO TV  * | CL
 https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png",  DOST TV * | CL
 https://tvsms.club/tvz.php?kanal=dost&file=.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", EZO TV  * | CL
 https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", TOP POP TV  * | CL
 https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
-
 #EXTINF:-1 tvg-id="1014" tvg-name="VOSTOK TV " tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png", TOP POP TV  * | CL
 https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
 
