@@ -574,21 +574,21 @@
         "fuente": "https://www.osornotv.cl/envivo.html",
         "pais": "cl"
     },
-    "teleton-tv": {
-        "nombre": "Teletón TV",
-        "iframe_url": "https://mdstrm.com/live-stream/5d6d5f05a2f6f407b0147965?autoplay=true&volume=0",
+    "TV 90": {
+        "nombre": "TV 90",
+        "iframe_url": "https://tv90-live.cdnnew.com/tv90/tv90.m3u8",
         "fuente": "https://teletontv.cl/",
         "pais": "cl"
     },
-    "teleton-tv-2": {
-        "nombre": "Teletón TV 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8",
+    "KÖRO": {
+        "nombre": "KÖRO",
+        "m3u8_url": "https://edge1.socialsmart.tv/koroglutv/bant1/chunks.m3u8",
         "fuente": "https://teletontv.cl/",
         "pais": "cl"
     },
-    "tv-salud": {
-        "nombre": "TV Salud",
-        "m3u8_url": "https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8",
+    "ULUSAL KANAL": {
+        "nombre": "ULUSAL KANAL",
+        "m3u8_url": "https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/85/index.m3u8",
         "fuente": "https://tvsalud.cl/",
         "pais": "cl"
     },
@@ -607,9 +607,9 @@
         "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
         "pais": "ar"
     },
-    "net-tv": {
-        "nombre": "Net TV",
-        "iframe_url": "https://rudo.video/live/nettv?volume=0&mute=1",
+    "KON TV": {
+        "nombre": "KON TV",
+        "iframe_url": "https://kontv.blutv.com/blutv_kontv2/live.m3u8",
         "fuente": "https://www.canalnet.tv/page/senal-en-vivo",
         "pais": "ar"
     },
@@ -638,9 +638,9 @@
         "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
         "pais": "ar"
     },
-    "ip-digital": {
-        "nombre": "Información Periodistica",
-        "m3u8_url": "https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8",
+    "OLAY TV": {
+        "nombre": "OLAY TV",
+        "m3u8_url": "http://nrttn172.kesintisizyayin.com:29010/olay/olay/playlist.m3u8",
         "fuente": "https://ip.digital/vivo",
         "pais": "ar"
     },
@@ -649,9 +649,9 @@
         "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
         "pais": "ar"
     },
-    "canal-26": {
-        "nombre": "Canal 26",
-        "m3u8_url": "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
+    "ÖNCÜ TV": {
+        "nombre": "ÖNCÜ TV",
+        "m3u8_url": "https://edge1.socialsmart.tv/oncurtv/bant1/playlist.m3u8",
         "fuente": "https://www.diario26.com/canal26_en_vivo",
         "pais": "ar"
     },
@@ -675,33 +675,33 @@
         "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
         "pais": "pe"
     },
-    "nacional-tv": {
-        "nombre": "Nacional TV",
-        "m3u8_url": "https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8",
+    "UR FANATiK": {
+        "nombre": "UR FANATiK",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/playlist.m3u8",
         "fuente": "https://ntvperu.pe/senal-en-vivo/",
         "pais": "pe"
     },
-    "panamericana-tv": {
-        "nombre": "Panamericana TV",
-        "iframe_url": "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0",
+    "VAN GOLU TV": {
+        "nombre": "VAN GOLU TV",
+        "iframe_url": "https://cdn1-vangolutv.yayin.com.tr/vangolutv/amlst:vangolutv/playlist.m3u8",
         "fuente": "https://panamericana.pe/tvenvivo",
         "pais": "pe"
     },
-    "onda-digital-tv": {
-        "nombre": "Onda Digital TV",
-        "m3u8_url": "https://v4.tustreaming.cl:443/odtvgo/index.m3u8",
+    "KANAL ON 4": {
+        "nombre": "KANAL ON 4",
+        "m3u8_url": "https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8",
         "fuente": "https://ondadigitaltv.com",
         "pais": "pe"
     },
-    "onda-digital-tv-2": {
-        "nombre": "Onda Digital TV 2",
-        "m3u8_url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
+    "OLAY TURK": {
+        "nombre": "OLAY TURK",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8",
         "fuente": "https://ondadigitaltv.com",
         "pais": "pe"
     },
-    "uci": {
-        "nombre": "UCI",
-        "m3u8_url": "https://mediastreamm.com:3449/live/mlecaroslive.m3u8",
+    "TV 1": {
+        "nombre": "TV 1",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/chunks.m3u8",
         "fuente": "https://uci.pe/envivo",
         "pais": "pe"
     },
@@ -710,21 +710,21 @@
         "yt_id": "UCdl1ygFwPa6lUdNYPLjoAGg",
         "pais": "pe"
     },
-    "cable-vision-peru": {
-        "nombre": "Cable Visión Perú",
-        "m3u8_url": "https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8",
+    "DERiN TV": {
+        "nombre": "DERiN TV",
+        "m3u8_url": "https://cdn1-derintv.yayin.com.tr/derintv/derintv/chunklist_w1486394141_b1796000.m3u8",
         "fuente": "https://www.cablevisionperu.pe/?page_id=1938",
         "pais": "pe"
     },
-    "atv": {
-        "nombre": "ATV",
-        "m3u8_url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8",
+    "ELMAS TV": {
+        "nombre": "ELMAS TV",
+        "m3u8_url": "https://edge1.socialsmart.tv/elmastv/bant1/chunks.m3u8",
         "fuente": "https://www.atv.pe/envivo-atv",
         "pais": "pe"
     },
-    "atv-mas": {
-        "nombre": "ATV Más",
-        "m3u8_url": "https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8",
+    "HEDEF TV": {
+        "nombre": "HEDEF TV",
+        "m3u8_url": "https://cdn1-hedeftv.yayin.com.tr/hedeftv/hedeftv/chunklist_w980829448_b1696000.m3u8?app=supersatforum",
         "fuente": "https://www.atv.pe/envivo-atvmas",
         "pais": "pe"
     },
@@ -734,7 +734,7 @@
         "pais": "pe"
     },
     "willax": {
-        "nombre": "Willax",
+        "METROPOL TV",
         "iframe_url": "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0",
         "fuente": "https://willax.tv/en-vivo/",
         "pais": "pe"
