@@ -733,9 +733,9 @@
         "yt_id": "UC-B7Xv56uNRDkj0vC3QW8Cg",
         "pais": "pe"
     },
-    "willax": {
-        "METROPOL TV",
-        "iframe_url": "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0",
+    "TV MOR": {
+        "TV MOR",
+        "iframe_url": "https://vdo.digitalbox.xyz:3175/live/tvmorlive.m3u8",
         "fuente": "https://willax.tv/en-vivo/",
         "pais": "pe"
     },
@@ -744,9 +744,9 @@
         "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
         "pais": "pe"
     },
-    "ovacion-tv": {
-        "nombre": "📻 Ovación TV",
-        "m3u8_url": "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8",
+    "BLOOMBERG HT": {
+        "nombre": "📻 BLOOMBERG HT",
+        "m3u8_url": "https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8",
         "fuente": "https://ovacion.pe/radio",
         "pais": "pe"
     },
@@ -760,21 +760,21 @@
         "yt_id": "UCIGV0oiNkdK2-tnf10DNp2A",
         "pais": "pe"
     },
-    "san-borja": {
-        "nombre": "📻 Radio San Borja Tv",
-        "m3u8_url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
+    "BOOMERANG TV": {
+        "nombre": "📻 BOOMERANG TV",
+        "m3u8_url": "https://boomerang.blutv.com/blutv_boomerang/live.m3u8",
         "fuente": "https://radiosanborjatv.com/",
         "pais": "pe"
     },
-    "radio-onda-digital": {
-        "nombre": "📻 Radio Onda Digital",
-        "m3u8_url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
+    "FORTUNA TV": {
+        "nombre": "📻 FORTUNA TV",
+        "m3u8_url": "https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
         "fuente": "https://www.ondadigital.pe/",
         "pais": "pe"
     },
-    "radio-tropical": {
-        "nombre": "📻 Radio Tropical",
-        "m3u8_url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+    "KUDUS TV": {
+        "nombre": "📻 KUDUS TV",
+        "m3u8_url": "https://yayin30.haber100.com/live/kudustv/chunklist.m3u8",
         "fuente": "https://radiotropical.pe/",
         "pais": "pe"
     },
@@ -823,9 +823,9 @@
         "yt_id": "UCvdwhh_fDyWccR42-rReZLw",
         "pais": "br"
     },
-    "global-news": {
-        "nombre": "Global News",
-        "m3u8_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "DÜZGÜN TV": {
+        "nombre": "DÜZGÜN TV",
+        "m3u8_url": "http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8",
         "fuente": "https://globalnews.ca/live/national/",
         "pais": "ca"
     },
@@ -839,9 +839,9 @@
         "yt_id": "UCq9e_hCv2jvgck8WowW1NXg",
         "pais": "us"
     },
-    "abc-news": {
-        "nombre": "ABC News",
-        "m3u8_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "FiNEST TV": {
+        "nombre": "FiNEST TV",
+        "m3u8_url": "http://media.finest.tv/hls/live.m3u8",
         "fuente": "https://abcnews.go.com/Live",
         "pais": "us"
     },
@@ -850,21 +850,21 @@
         "yt_id": "UCshCsg1YVKli8yBai-wa78w",
         "pais": "us"
     },
-    "agenda-free-tv-tw": {
-        "nombre": "Agenda-Free TV 2",
-        "iframe_url": "https://player.twitch.tv/?channel=agendafreetv&parent=alplox.github.io",
+    "DOST TV": {
+        "nombre": "DOST TV",
+        "iframe_url": "https://tvsms.club/tvz.php?kanal=dost&file=.m3u8",
         "fuente": "https://www.twitch.tv/agendafreetv",
         "pais": "us"
     },
-    "bloomberg-us": {
-        "nombre": "Bloomberg US",
-        "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+    "SUNNAH TV": {
+        "nombre": "SUNNAH TV",
+        "m3u8_url": "https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
         "fuente": "https://www.bloomberg.com/",
         "pais": "us"
     },
-    "bloomberg-europe": {
-        "nombre": "Bloomberg Europe",
-        "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+    "Al Quran": {
+        "nombre": "Al Quran",
+        "m3u8_url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
         "fuente": "https://www.bloomberg.com/europe",
         "pais": "us"
     },
