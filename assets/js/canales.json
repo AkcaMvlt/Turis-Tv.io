@@ -1,7 +1,7 @@
 {
-    "24-horas": {
+    "Turis Tv": {
         "nombre": "24 horas",
-        "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
+        "yt_id": "UCS-7kHRFyAd7ERS9sey6deQ",
         "pais": "cl"
     },
     "TRT 1 HD": {
@@ -28,32 +28,28 @@
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-6": {
-        "nombre": "24 horas 6",
-        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
+    "KANAL D HD": {
+        "nombre": "KANAL D HD",
+        "iframe_url": "https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-s2": {
-        "nombre": "24 Horas s2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8",
+    "KANAL D FHD": {
+        "nombre": "KANAL D FHD",
+        "m3u8_url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-s2-2": {
-        "nombre": "24 Horas s2 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8",
+    "STAR TV ": {
+        "nombre": "STAR TV ",
+        "m3u8_url": "https://dogus-live.daioncdn.net/startv/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
+ 
     },
-    "tvn": {
-        "nombre": "TVN",
-        "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-        "pais": "cl"
-    },
-    "tvn-2": {
-        "nombre": "TVN 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+    "SHOW TV": {
+        "nombre": "SHOW TV",
+        "m3u8_url": "https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
