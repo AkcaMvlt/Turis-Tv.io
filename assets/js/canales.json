@@ -348,15 +348,15 @@
         "fuente": "https://www.tvmas.tv/",
         "pais": "cl"
     },
-    "tv-mas-2": {
-        "nombre": "TV+ 2",
-        "iframe_url": "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?autoplay=true&volume=0",
+    "EURO D": {
+        "nombre": "EURO D",
+        "iframe_url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8",
         "fuente": "https://www.tvmas.tv/",
         "pais": "cl"
     },
-    "derechofacil-tw": {
-        "nombre": "DerechoFacil",
-        "iframe_url": "https://player.twitch.tv/?channel=derechofacil&parent=alplox.github.io",
+    "A2 TV": {
+        "nombre": "A2 TV",
+        "iframe_url": "http://221.120.145.12:8000/play/a08g/index.m3u8",
         "fuente": "https://www.twitch.tv/derechofacil",
         "pais": "cl"
     },
@@ -370,177 +370,177 @@
         "yt_id": "UCVTL17ftpqx3lQ_IaGUNgSg",
         "pais": "cl"
     },
-    "copano-tw": {
-        "nombre": "Nicolas Copano 2",
-        "iframe_url": "https://player.twitch.tv/?channel=copano&parent=alplox.github.io",
+    "TGRT EU": {
+        "nombre": "TGRT EU",
+        "iframe_url": "https://tv.ensonhaber.com/tgrteu/tgrteu.m3u8",
         "fuente": "https://www.twitch.tv/copano",
         "pais": "cl"
     },
-    "puranoticia": {
-        "nombre": "Puranoticia TV",
-        "m3u8_url": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
+    "TGRT BELGESEL": {
+        "nombre": "TGRT BELGESEL",
+        "m3u8_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8?md5=yJ4adbAK5bE0F93vqFevgw&expires=1687122603",
         "fuente": "https://puranoticia.pnt.cl/",
         "pais": "cl"
     },
-    "holvoet-tv": {
-        "nombre": "Holvoet TV",
-        "iframe_url": "https://rudo.video/live/holvoettv",
+    "TRT TURK HD": {
+        "nombre": "TRT TURK HD",
+        "iframe_url": "https://tv-trtturk.medya.trt.com.tr/master_720.m3u8",
         "fuente": "https://holvoet.cl/en-vivo/",
         "pais": "cl"
     },
-    "holvoet-tv-2": {
-        "nombre": "Holvoet TV 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+    "TRT 2 HD": {
+        "nombre": "TRT 2 HD",
+        "m3u8_url": "https://tv-trt2.medya.trt.com.tr/master_720.m3u8",
         "fuente": "https://holvoet.cl/en-vivo/",
         "pais": "cl"
     },
-    "antofagasta-tv": {
-        "nombre": "Antofagasta TV",
-        "m3u8_url": "https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8",
+    "TRT AVAZ": {
+        "nombre": "TRT AVAZ",
+        "m3u8_url": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
         "fuente": "https://www.antofagasta.tv/",
         "pais": "cl"
     },
-    "antofagasta-tv-2": {
-        "nombre": "Antofagasta TV 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8",
+    "TiVi 6 HD": {
+        "nombre": "TiVi 6 HD",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
         "fuente": "https://www.antofagasta.tv/",
         "pais": "cl"
     },
-    "antofagasta-tv-3": {
-        "nombre": "Antofagasta TV 3",
-        "m3u8_url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+    "TELEON TV": {
+        "nombre": "TELEON TV",
+        "m3u8_url": "https://streaming.netdirekt.com.tr/35757/teleontv/teleontv_lisansli_canliyayin/chunks.m3u8",
         "fuente": "https://www.antofagasta.tv/",
         "pais": "cl"
     },
-    "arab-tv": {
-        "nombre": "ARABTV",
-        "m3u8_url": "https://livefocamundo.com:8081/arabtv/index.m3u8",
+    "TiViTURK HD": {
+        "nombre": "TiViTURK HD",
+        "m3u8_url": "https://stream.tiviturk.de/live/tiviturk.m3u8",
         "fuente": "https://www.arabtv.cl/",
         "pais": "cl"
     },
-    "arab-tv-2": {
-        "nombre": "ARABTV 2",
-        "m3u8_url": "https://livefocamundo.com:8081/arabtv/playlist.m3u8",
+    "AFYON TÜRK": {
+        "nombre": "AFYON TÜRK",
+        "m3u8_url": "https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8",
         "fuente": "https://www.arabtv.cl/",
         "pais": "cl"
     },
-    "arica-tv": {
-        "nombre": "Arica TV",
-        "m3u8_url": "https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8",
+    "CINE 1": {
+        "nombre": "CINE 1",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8",
         "fuente": "https://arica.tv/envivo/",
         "pais": "cl"
     },
-    "atacama-tv": {
-        "nombre": "Atacama TV",
-        "m3u8_url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+    "CINE 5": {
+        "nombre": "CINE 5",
+        "m3u8_url": "https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8",
         "fuente": "http://atacamatelevision.com/",
         "pais": "cl"
     },
-    "atacama-tv-2": {
-        "nombre": "Atacama TV 2",
-        "m3u8_url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8",
+    "BLUTV PLAY 1": {
+        "nombre": "BLUTV PLAY 1",
+        "m3u8_url": "https://play1dvr.blutv.com/blutv_play1_dvr/live.m3u8",
         "fuente": "http://atacamatelevision.com/",
         "pais": "cl"
     },
-    "canal-9": {
-        "nombre": "Canal 9",
-        "iframe_url": "https://rudo.video/live/c9?volume=0&mute=1",
+    "BLUTV PLAY 2": {
+        "nombre": "BLUTV PLAY 2",
+        "iframe_url": "https://play2dvr.blutv.com/blutv_play2_dvr/live.m3u8",
         "fuente": "https://www.canal9.cl/en-vivo/",
         "pais": "cl"
     },
-    "canal-9-2": {
-        "nombre": "Canal 9 2",
-        "m3u8_url": "https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8",
+    "DENiZ POSTASI TV": {
+        "nombre": "DENiZ POSTASI TV",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8",
         "fuente": "https://www.canal9.cl/en-vivo/",
         "pais": "cl"
     },
-    "tvu": {
-        "nombre": "TVU",
-        "iframe_url": "https://rudo.video/live/tvu?volume=0&mute=1",
+    "MELTEM TV": {
+        "nombre": "MELTEM TV",
+        "iframe_url": "https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8",
         "fuente": "https://www.tvu.cl/",
         "pais": "cl"
     },
-    "tvu-2": {
-        "nombre": "TVU 2",
-        "m3u8_url": "https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8",
+    "BERAT TV": {
+        "nombre": "BERAT TV",
+        "m3u8_url": "http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8",
         "fuente": "https://www.tvu.cl/",
         "pais": "cl"
     },
-    "canal-21": {
-        "nombre": "Canal 21",
-        "iframe_url": "https://live.grupoz.cl/8b383d0a9cef5560a1bfbbeaf6ad4a38?sound=0",
+    "CAMiA TV": {
+        "nombre": "CAMiA TV",
+        "iframe_url": "http://camiatv-live.ercdn.net/camiatv/camiatv_1080p.m3u8",
         "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
         "pais": "cl"
     },
-    "canal-21-2": {
-        "nombre": "Canal 21 2",
-        "m3u8_url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+    "DiYANET TV": {
+        "nombre": "DiYANET TV",
+        "m3u8_url": "http://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8",
         "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
         "pais": "cl"
     },
-    "nublevision": {
-        "nombre": "Ñublevision",
-        "m3u8_url": "https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8",
+    "DOST HD": {
+        "nombre": "DOST HD",
+        "m3u8_url": "https://dost.stream.emsal.im/tv/live.m3u8",
         "fuente": "https://nublevision.cl/",
         "pais": "cl"
     },
-    "nuble-RTV": {
-        "nombre": "Ñuble RVT",
-        "m3u8_url": "https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8",
+    "GONCA TV": {
+        "nombre": "GONCA TV",
+        "m3u8_url": "https://edge1.socialsmart.tv/goncatv/bant1/playlist.m3u8",
         "fuente": "https://canalrtv.cl/",
         "pais": "cl"
     },
-    "estaciontv": {
-        "nombre": "Estacióntv",
-        "m3u8_url": "https://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
+    "LALEGUL TV": {
+        "nombre": "LALEGUL TV",
+        "m3u8_url": "http://lalegultv.netmedya.net/hls/lalegultv.m3u8",
         "fuente": "https://www.estaciontv.cl/site/",
         "pais": "cl"
     },
-    "estaciontv-2": {
-        "nombre": "Estacióntv 2",
-        "m3u8_url": "https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
+    "SEMERKAND TV": {
+        "nombre": "SEMERKAND TV",
+        "m3u8_url": "http://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8",
         "fuente": "https://www.estaciontv.cl/site/",
         "pais": "cl"
     },
-    "pinguino-tv": {
-        "nombre": "Pingüino TV",
-        "iframe_url": "https://elpinguino.com/reproductor/",
+    "SEMERKAND TVW": {
+        "nombre": "SEMERKAND TVW",
+        "iframe_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_6409fdaa68111.smil/m1MnCHWKHfhtb_0.m3u8",
         "fuente": "https://elpinguino.com/reproductor/",
         "pais": "cl"
     },
-    "pinguino-tv-2": {
-        "nombre": "Pingüino TV 2",
-        "m3u8_url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
+    "VAV TV": {
+        "nombre": "VAV TV",
+        "m3u8_url": "http://new.cache-stream.workers.dev/stream/UCmMPdW0rtbEI_XyIsMlMnqg/live.m3u8",
         "fuente": "https://elpinguino.com/reproductor/",
         "pais": "cl"
     },
-    "itv-patagonia": {
-        "nombre": "ITV Patagonia",
-        "iframe_url": "https://rudo.video/live/itv?volume=0&mute=1",
+    "KANAL AVRUPAF": {
+        "nombre": "KANAL AVRUPAF",
+        "iframe_url": "https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8",
         "fuente": "https://www.itvpatagonia.com/",
         "pais": "cl"
     },
-    "itv-patagonia-2": {
-        "nombre": "ITV Patagonia 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8",
+    "TÜRKMENEL": {
+        "nombre": "TÜRKMENEL",
+        "m3u8_url": "https://fubca.com:5443/LiveApp/streams/p9tKao40IwzRAiXw1696067892766.m3u8",
         "fuente": "https://www.itvpatagonia.com/",
         "pais": "cl"
     },
-    "ucv": {
-        "nombre": "UCV TV",
-        "iframe_url": "https://rudo.video/live/ucvtv2?volume=0&mute=1",
+    "MC EU": {
+        "nombre": "MC EU",
+        "iframe_url": "https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8",
         "fuente": "https://pucvmultimedios.cl/senal-online-tv.php",
         "pais": "cl"
     },
-    "ucv-2": {
-        "nombre": "UCV TV 2",
-        "m3u8_url": "https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8",
+    "ANGARA TV": {
+        "nombre": "ANGARA TV",
+        "m3u8_url": "https://angr.radyotvonline.net/webtv/smil:kecioren.smil/chunklist_w976368300_b3268000_sltur.m3u8",
         "fuente": "https://pucvmultimedios.cl/senal-online-tv.php",
         "pais": "cl"
     },
-    "uatv": {
-        "nombre": "UATV",
-        "iframe_url": "https://rudo.video/live/uatv?volume=0&mute=1",
+    "BÜLTEN TV": {
+        "nombre": "BÜLTEN TV",
+        "iframe_url": "https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/playlist.m3u8",
         "fuente": "https://uatv.cl/uatv-en-vivo/",
         "pais": "cl"
     },
@@ -550,27 +550,27 @@
         "fuente": "http://canalvtv.cl/vtv/",
         "pais": "cl"
     },
-    "canal-33": {
-        "nombre": "Canal 33",
-        "iframe_url": "https://streaminghd.cl/player.video/index.php?s=eduardo555/eduardo555",
+    "MUGLA TÜRK": {
+        "nombre": "MUGLA TÜRK",
+        "iframe_url": "https://edge1.socialsmart.tv/muglaturk/bant1/chunks.m3u8",
         "fuente": "http://www.canal33.cl/online.php",
         "pais": "cl"
     },
-    "contivision": {
-        "nombre": "Contivision",
-        "iframe_url": "https://rudo.video/live/contivision?volume=0&mute=1",
+    "ViYANA TV": {
+        "nombre": "ViYANA TV",
+        "iframe_url": "http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8",
         "fuente": "http://w.contivision.cl/cvn/envivo.php",
         "pais": "cl"
     },
-    "contivision-2": {
-        "nombre": "Contivision 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/playlist.m3u8",
+    "KARDELEN TV": {
+        "nombre": "KARDELEN TV",
+        "m3u8_url": "https://edge1.socialsmart.tv/kardelentv/bant1/playlist.m3u8?WithCaption",
         "fuente": "http://w.contivision.cl/cvn/envivo.php",
         "pais": "cl"
     },
-    "osorno-tv": {
-        "nombre": "Osorno TV",
-        "m3u8_url": "https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8",
+    "TRAKYA TÜRK": {
+        "nombre": "TRAKYA TÜRK",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8",
         "fuente": "https://www.osornotv.cl/envivo.html",
         "pais": "cl"
     },
