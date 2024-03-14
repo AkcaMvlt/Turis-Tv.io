@@ -1,4 +1,4 @@
-# Turis Tv
+# la tele
 ## Sitio: https://akcamvlt.github.io/Turis-Tv.io/
 
 [![](https://raw.githubusercontent.com/AkcaMvlt/Turis-Tv.io/main/assets/img/v0.9.jpg)](https://akcamvlt.github.io/Turis-Tv.io/)
@@ -7,7 +7,7 @@
 <details>
 <summary>Canales</summary>
 
-- [AtvCeylan](https://www.youtube.com/watch?v=zmFaUZwKVF4)
+- [Ceylan](https://www.youtube.com/channel/QwW63jaHG2A)
 - [24 Horas 2](https://www.24horas.cl/envivo/) - [x](https://www.m3u.cl/iptv-chile.php)
 - [24 Horas 3](https://www.24horas.cl/envivo/) - [x](https://www.m3u.cl/iptv-chile.php)
 - [24 Horas 4](https://www.twitch.tv/24horas_tvn)
