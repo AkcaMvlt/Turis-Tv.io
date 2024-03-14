@@ -4,39 +4,351 @@
         "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
         "pais": "cl"
     },
-    "24-horas-2": {
-        "nombre": "🎵 24 Horas 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
+    "TRT 1 HD": {
+        "nombre": "🎵 TRT 1 HD",
+        "m3u8_url": "https://tv-trt1.medya.trt.com.tr/master_720.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-3": {
-        "nombre": "🎵 24 Horas 3",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8",
+    "TRT 1 FHD": {
+        "nombre": "🎵 TRT 1 FHD",
+        "m3u8_url": "https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-4": {
+    "TRT 1 HD YEDEK": {
         "nombre": "🎵 24 horas 4",
-        "iframe_url": "https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io",
+        "iframe_url": "https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8",
         "fuente": "https://www.twitch.tv/24horas_tvn",
         "pais": "cl"
     },
-    "24-horas-5": {
-        "nombre": "24 horas 5",
-        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
+    "TRT 1 FHD YEDEK": {
+        "nombre": "TRT 1 FHD YEDEK",
+        "iframe_url": "https://tv-trt1-dai.medya.trt.com.tr/master_4.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-6": {
-        "nombre": "24 horas 6",
-        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
+    "KANAL D HD": {
+        "nombre": "KANAL D HD",
+        "iframe_url": "https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-s2": {
-        "nombre": "24 Horas s2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8",
+    "KANAL D FHD": {
+        "nombre": "KANAL D FHD",
+        "m3u8_url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "STAR TV HD  ": {
+        "nombre": " STAR TV HD ",
+        "m3u8_url": "  https://dogus-live.daioncdn.net/startv/playlist.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " ATV FHD ": {
+        "nombre": " ATV FHD ",
+        "m3u8_url": "  https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/8/index.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " SHOW TV HD ": {
+        "nombre": "SHOW TV HD  ",
+        "m3u8_url": " https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "SHOW TV FHD  ": {
+        "nombre": "SHOW TV FHD  ",
+        "m3u8_url": " https://ciner-live.daioncdn.net/showtv/showtv.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " KANAL 7 HD ": {
+        "nombre": "KANAL 7 HD  ",
+        "m3u8_url": "  https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " KANAL 7 FHD ": {
+        "nombre": " KANAL 7 FHD ",
+        "m3u8_url": " https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " KANAL 7 FHD ": {
+        "nombre": " KANAL 7 FHD ",
+        "m3u8_url": " http://149.13.0.66:4003/kanal7  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " FOX TV HD ": {
+        "nombre": " FOX TV HD ",
+        "m3u8_url": " https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " FOX TV FHD ": {
+        "nombre": "FOX TV FHD  ",
+        "m3u8_url": " https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/20/index.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " 360 TV HD ": {
+        "nombre": " 360 TV HD ",
+        "m3u8_url": " https://turkmedya-live.ercdn.net/tv360/tv360.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "360 TV HD  ": {
+        "nombre": "360 TV HD  ",
+        "m3u8_url": " https://360tvdvr.blutv.com/blutv_360tv_dvr/live.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "TV4 HD  ": {
+        "nombre": "TV4 HD  ",
+        "m3u8_url": "  https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TV4 HD YEDEK ": {
+        "nombre": "TV4 HD YEDEK  ",
+        "m3u8_url": "  https://tv4.blutv.com/blutv_tv4/live.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TEVE 2 FHD ": {
+        "nombre": "TEVE 2 FHD  ",
+        "m3u8_url": " https://demiroren-live.daioncdn.net/teve2/teve2.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TEVE 2 FHD": {
+        "nombre": "TEVE 2 FHD  ",
+        "m3u8_url": " https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/34/index.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " BEYAZ TV HD ": {
+        "nombre": "BEYAZ TV HD  ",
+        "m3u8_url": " https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "BEYAZ TV FHD  ": {
+        "nombre": " BEYAZ TV FHD ",
+        "m3u8_url": " https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TV 8 FHD ": {
+        "nombre": "TV 8 FHD  ",
+        "m3u8_url": " https://tv8-live.daioncdn.net/tv8/tv8.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TV 8.5 FHD ": {
+        "nombre": " TV 8.5 FHD ",
+        "m3u8_url": " https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TRT BELGESEL HD ": {
+        "nombre": " TRT BELGESEL HD ",
+        "m3u8_url": " https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TRT BELGESEL HD ": {
+        "nombre": " TRT BELGESEL HD ",
+        "m3u8_url": "  https://trtbelgeseldvr.blutv.com/blutv_trtbelgesel_dvr/live.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "TLC HD  ": {
+        "nombre": " TLC HD ",
+        "m3u8_url": " https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TLC HD  ": {
+        "nombre": " TLC HD  ",
+        "m3u8_url": " https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " DMAX TV ": {
+        "nombre": "DMAX TV  ",
+        "m3u8_url": " https://dmaxdvr.blutv.com/blutv_dmax_dvr/live.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "DMAX TV  ": {
+        "nombre": " DMAX TV ",
+        "m3u8_url": " https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " DOCUMAX BELGESEL ": {
+        "nombre": " DOCUMAX BELGESEL ",
+        "m3u8_url": " https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/1278/index.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " CNN TURK HD ": {
+        "nombre": " CNN TURK HD ",
+        "m3u8_url": " https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " NTV HD ": {
+        "nombre": "NTV HD  ",
+        "m3u8_url": " https://dogus-live.daioncdn.net/ntv/playlist.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " HABER GLOBAL HD ": {
+        "nombre": " HABER GLOBAL HD ",
+        "m3u8_url": " https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " HABER GLOBAL FHD ": {
+        "nombre": "HABER GLOBAL FHD  ",
+        "m3u8_url": " https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/72/index.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "HABER TURK HD  ": {
+        "nombre": "HABER TURK HD  ",
+        "m3u8_url": "  https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " HABERTÜRK FHD ": {
+        "nombre": " HABERTÜRK FHD ",
+        "m3u8_url": "https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/54/index.m3u8   ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " TGRT HABER ": {
+        "nombre": "TGRT HABER  ",
+        "m3u8_url": " https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "TRT HABER HD  ": {
+        "nombre": "TRT HABER HD  ",
+        "m3u8_url": " https://tv-trthaber.medya.trt.com.tr/master.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " A HABER ": {
+        "nombre": " A HABER ",
+        "m3u8_url": "  http://new.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " 24 TV HD ": {
+        "nombre": "24 TV HD  ",
+        "m3u8_url": " https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " 24 TV FHD ": {
+        "nombre": "24 TV FHD  ",
+        "m3u8_url": "  https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8 ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    "A HABER  ": {
+        "nombre": " A HABER ",
+        "m3u8_url": " https://stream2.filbox.com.tr/live/08d07e8f6f186381322a5fd7c8941558/51/index.m3u8  ",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+ 
+
+    },
+    " AKiT TV HD ": {
+        "nombre": " AKiT TV HD ",
+        "m3u8_url": " https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8  ",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
  
