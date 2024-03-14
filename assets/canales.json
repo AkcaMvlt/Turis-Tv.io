@@ -1,0 +1,41 @@
+{
+    "24-horas": {
+        "nombre": "24 horas",
+        "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
+        "pais": "cl"
+    },
+    "24-horas-2": {
+        "nombre": "24 Horas 2",
+        "m3u8_url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "24-horas-3": {
+        "nombre": "24 Horas 3",
+        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f657c1e6f5810b5b9df3.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+
+
+
+
+
+
+
+
+
+
+
+
+    },
+    "congreso-peru": {
+        "nombre": "🏛️ Congreso República del Perú",
+        "yt_id": "UCsKiP5cZCYh9YhPGrI6GrkQ",
+        "pais": "pe"
+    },
+    "justicia-tv": {
+        "nombre": "🏛️ Justicia TV",
+        "yt_id": "UCwsURxTXqGqijgu98ndod3A",
+        "pais": "pe"
+    }
+}
