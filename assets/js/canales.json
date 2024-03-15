@@ -1,224 +1,193 @@
 {
     "Ceylan": {
-        "nombre": "Ceylan",
+        "nombre": "🎵 Ceylan",
         "yt_id": "aRbj2MzaCFA",
         "pais": "cl"
     },
     "AFYON TÜRK": {
-        "nombre": "AFYON TÜRK",
+        "nombre": "🎵 AFYON TÜRK",
         "m3u8_url": "https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
+
     },
-    "KRAL POP TV": {
-        "nombre": "KRAL POP TV",
-        "m3u8_url": "http://dygvideo.dygdigital.com/live/hls/kralpop",
-        "fuente": "https://www.24horas.cl/envivo/",
-        "pais": "cl"
-    },
-    "KRAL POP TV HD": {
-        "nombre": "KRAL POP TV HD",
+    "KRAL POP": {
+        "nombre": "🎵 KRAL POP",
         "iframe_url": "https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8",
         "fuente": "https://www.twitch.tv/24horas_tvn",
         "pais": "cl"
     },
     "TRT MUZiK": {
-        "nombre": "TRT MUZiK",
+        "nombre": "🎵 TRT MUZiK",
         "iframe_url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "DREAM TURK": {
-        "nombre": "DREAM TURK",
+    "DREAM TÜRK": {
+        "nombre": "🎵 DREAM TÜRK",
         "iframe_url": "https://live.duhnet.tv//S2/HLS_LIVE/dreamturknp/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
     "TATLISES TV": {
-        "nombre": "TATLISES TV",
+        "nombre": "🎵 TATLISES TV",
         "m3u8_url": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "NR 1 TURK": {
-        "nombre": "NR 1 TURK",
+    "NR 1 TÜRK": {
+        "nombre": "🎵 NR 1 TÜRK",
         "m3u8_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
 
     },
     "NR 1": {
-        "nombre": "NR 1",
+        "nombre": "🎵 NR 1",
         "m3u8_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
 
     },
-    "POWER TURK": {
-        "nombre": "POWER TURK",
+    "POWER TÜRK": {
+        "nombre": "🎵 POWER TÜRK",
         "iframe_url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8",
         "fuente": "https://www.twitch.tv/meganoticiascl",
         "pais": "cl"
     },
-    "meganoticias-3": {
-        "nombre": "Meganoticias 3",
-        "iframe_url": "https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0",
+    "POWER TURK SLOW": {
+        "nombre": "🎵 POWER TURK SLOW",
+        "iframe_url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
         "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
         "pais": "cl"
     },
-    "mega": {
-        "nombre": "Mega",
-        "m3u8_url": "https://marine2.miplay.cl/mega/index.m3u8",
+    "POWER TV AKUSTiK": {
+        "nombre": "🎵 POWER TV AKUSTiK",
+        "m3u8_url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
     },
-    "mega-2": {
-        "nombre": "Mega 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+    "POWER TURK TAPTAZE": {
+        "nombre": "🎵 POWER TURK TAPTAZE",
+        "m3u8_url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
         "fuente": "https://www.mega.cl/",
         "pais": "cl"
     },
-    "t13": {
-        "nombre": "T13",
-        "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
-        "pais": "cl"
-    },
-    "t13-2": {
-        "nombre": "T13 2",
-        "iframe_url": "https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io",
+    "POWER DANCE": {
+        "nombre": "🎵 POWER DANCE",
+        "iframe_url": "https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8",
         "fuente": "https://www.twitch.tv/t13envivo",
         "pais": "cl"
     },
-    "t13-3": {
-        "nombre": "T13 3",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8",
+    "POWER LOVE": {
+        "nombre": "🎵 POWER LOVE",
+        "m3u8_url": "https://listen.powerapp.com.tr/plove/love.smil/playlist.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
     },
-    "t13-4": {
-        "nombre": "T13 4",
-        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+    "POWER TV": {
+        "nombre": "🎵 POWER TV",
+        "m3u8_url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b1428000_sltur.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
     },
-    "t13-5": {
-        "nombre": "T13 5",
-        "iframe_url": "https://rudo.video/live/t13",
+    "MiLYON TV": {
+        "nombre": "🎵 MiLYON TV",
+        "iframe_url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
+
     },
-    "canal-13": {
-        "nombre": "Canal 13",
-        "yt_id": "UCd4D3LfXC_9MY2zSv_3gMgw",
-        "pais": "cl"
-    },
-    "canal-13-2": {
-        "nombre": "Canal 13 2",
-        "iframe_url": "https://13313131.tnvas.repl.co/",
+    "SLOW KARADENIZ": {
+        "nombre": "🎵 SLOW KARADENIZ",
+        "iframe_url": "https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8",
         "fuente": "https://www.13.cl/en-vivo",
         "pais": "cl"
     },
-    "canal-13-3": {
-        "nombre": "Canal 13 3",
-        "iframe_url": "https://ainmcl.github.io/MonitorTV/Monitores/Senal/WEB/Se%C3%B1alCANAL13_IFRAME.html",
+    "TEMPO TV": {
+        "nombre": "🎵 TEMPO TV",
+        "iframe_url": "https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8",
         "fuente": "https://www.13.cl/en-vivo",
         "pais": "cl"
+
     },
-    "cnn-cl": {
-        "nombre": "CNN Chile",
-        "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
-        "pais": "cl"
-    },
-    "chv-noticias": {
-        "nombre": "CHV Noticias",
-        "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
-        "pais": "cl"
-    },
-    "chv-noticias-2": {
-        "nombre": "CHV Noticias 2",
-        "m3u8_url": "https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8",
+    "FORTUNA TV": {
+        "nombre": "🎵 FORTUNA TV",
+        "m3u8_url": "https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
         "fuente": "https://pluto.tv/es/live-tv/chilevision-noticias",
         "pais": "cl"
     },
-    "chv-noticias-3": {
-        "nombre": "CHV Noticias 3",
-        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
+    "FiNEST TV": {
+        "nombre": "🎵 FiNEST TV",
+        "m3u8_url": "http://media.finest.tv/hls/live.m3u8",
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
     },
-    "chv-noticias-4": {
-        "nombre": "CHV Noticias 4",
-        "iframe_url": "https://rudo.video/live/chvn",
+    "DAMAR TV": {
+        "nombre": "🎵 DAMAR TV",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=damar&file=.m3u8",
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
+
     },
-    "chv": {
-        "nombre": "CHV",
-        "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
-        "pais": "cl"
-    },
-    "chv-2": {
-        "nombre": "CHV 2",
-        "iframe_url": "https://chvv--hofece7009.repl.co/",
+    "ARABESK TV": {
+        "nombre": "🎵 ARABESK TV",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "chv-3": {
-        "nombre": "CHV 3",
-        "m3u8_url": "https://marine2.miplay.cl/chilevision/index.m3u8",
+    "SILA TV": {
+        "nombre": "🎵 SILA TV",
+        "m3u8_url": "https://tvsms.club/tv.php?kanal=silatv&file=.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "chv-4": {
-        "nombre": "CHV 4",
-        "iframe_url": "https://www.viendotele.cl/assets-tele/chv.html",
+    "ZEYNO TV": {
+        "nombre": "🎵 ZEYNO TV",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "la-red": {
-        "nombre": "La Red",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+    "EZO TV": {
+        "nombre": "🎵 EZO TV",
+        "m3u8_url": "https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8",
         "fuente": "https://www.lared.cl/senal-online",
         "pais": "cl"
     },
-    "cooperativa": {
-        "nombre": "📻 Cooperativa",
-        "iframe_url": "https://rudo.video/live/coopetv?volume=0&mute=1",
+    "TOP POP TV": {
+        "nombre": "🎵 TOP POP TV",
+        "iframe_url": "https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8",
         "fuente": "http://programas.cooperativa.cl/showalairelibre/",
         "pais": "cl"
     },
-    "bbtv": {
-        "nombre": "📻 Biobio TV",
-        "iframe_url": "https://rudo.video/live/bbtv?volume=0&mute=1",
+    "AVIVA TV": {
+        "nombre": "🎵 AVIVA TV",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8",
         "fuente": "https://www.biobiochile.cl/biobiotv/",
         "pais": "cl"
     },
-    "bbtv-2": {
-        "nombre": "📻 Biobio TV 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8",
+    "ARMA TV": {
+        "nombre": "🎵 ARMA TV",
+        "m3u8_url": "https://tvsms.club/tvz.php?kanal=arma&file=.m3u8",
         "fuente": "https://www.biobiochile.cl/biobiotv/",
         "pais": "cl"
     },
-    "adn": {
-        "nombre": "📻 ADN",
-        "iframe_url": "https://rudo.video/live/adntv?volume=0&mute=1",
+    "GENC SMS": {
+        "nombre": "🎵 GENC SMS",
+        "iframe_url": "https://tvsms.club/tv.php?kanal=genctv&file=.m3u8",
+        "fuente": "http://tv.adnradio.cl/",
+        "pais": "cl"
+
+    },
+    "EURO 90": {
+        "nombre": "🎵 EURO 90",
+        "m3u8_url": "https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
     },
-    "adn-2": {
-        "nombre": "📻 ADN 2",
-        "yt_id": "UCczkrFICr0xEgDsk51zZojA",
-        "pais": "cl"
-    },
-    "adn-3": {
-        "nombre": "📻 ADN 3",
-        "m3u8_url": "https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8",
-        "fuente": "http://tv.adnradio.cl/",
-        "pais": "cl"
-    },
-    "adn-4": {
-        "nombre": "📻 ADN 4",
-        "m3u8_url": "https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8",
+    "NATURAL TV": {
+        "nombre": "🎵 NATURAL TV",
+        "m3u8_url": "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
     },
