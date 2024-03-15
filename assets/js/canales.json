@@ -119,7 +119,7 @@
     },
     "FiNEST TV": {
         "nombre": "🎵 FiNEST TV",
-        "m3u8_url": "http://media.finest.tv/hls/live.m3u8",
+        "m3u8_url": "https://media.finest.tv/hls/live.m3u8",
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
     },
@@ -135,12 +135,7 @@
         "iframe_url": "https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8",
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
-    },
-    "SILA TV": {
-        "nombre": "🎵 SILA TV",
-        "m3u8_url": "https://tvsms.club/tv.php?kanal=silatv&file=.m3u8",
-        "fuente": "https://www.chilevision.cl/senal-online",
-        "pais": "cl"
+
     },
     "ZEYNO TV": {
         "nombre": "🎵 ZEYNO TV",
@@ -148,9 +143,9 @@
         "fuente": "https://www.chilevision.cl/senal-online",
         "pais": "cl"
     },
-    "EZO TV": {
-        "nombre": "🎵 EZO TV",
-        "m3u8_url": "https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8",
+    "VOSTOK": {
+        "nombre": "🎵 VOSTOK",
+        "m3u8_url": "http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8",
         "fuente": "https://www.lared.cl/senal-online",
         "pais": "cl"
     },
@@ -165,12 +160,7 @@
         "iframe_url": "https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8",
         "fuente": "https://www.biobiochile.cl/biobiotv/",
         "pais": "cl"
-    },
-    "ARMA TV": {
-        "nombre": "🎵 ARMA TV",
-        "m3u8_url": "https://tvsms.club/tvz.php?kanal=arma&file=.m3u8",
-        "fuente": "https://www.biobiochile.cl/biobiotv/",
-        "pais": "cl"
+
     },
     "GENC SMS": {
         "nombre": "🎵 GENC SMS",
@@ -178,12 +168,7 @@
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
 
-    },
-    "EURO 90": {
-        "nombre": "🎵 EURO 90",
-        "m3u8_url": "https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8",
-        "fuente": "http://tv.adnradio.cl/",
-        "pais": "cl"
+
 
     },
     "congreso-peru": {
