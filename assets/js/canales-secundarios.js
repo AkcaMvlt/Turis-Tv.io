@@ -83,24 +83,24 @@ http://media.finest.tv/hls/live.m3u8
 https://tvsms.club/tv.php?kanal=damar&file=.m3u8
 #EXTINF:-1 tvg-id="1288" tvg-name="ARABESK TV" tvg-logo="https://i2.paste.pics/3d29bee85a41e947ab505098d83e8d64.png", ARABESK TV * | CL
 https://tvsms.club/tv.php?kanal=arabeskyeni&file=.m3u8
-#EXTINF:-1 tvg-id="1287" tvg-name="CDR" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png", CDR * | CL
-https://live-hls-xgod.livepush.io/live_cdn/emaf6CHYV7M-RQcL2/index.m3u8
-#EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png", CRTV * | CL
-https://vdo.panelstreaming.live:3058/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="897" tvg-name="Retro Play TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", Retro Play TV * | CL
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
-#EXTINF:-1 tvg-id="1482" tvg-name="Radio Eva Digital" tvg-logo="https://i2.paste.pics/b242fea3347af3f807d518f3b834d2c1.png", Radio Eva Digital * | CL
-https://vdo.panelstreaming.live:3466/stream/play.m3u8
-#EXTINF:-1 tvg-id="1481" tvg-name="Mamalluca TV" tvg-logo="https://i2.paste.pics/5304dac5430b156b0909c664448fdc7a.png", Mamalluca TV * | CL
-https://stmv2.zcasthn.com.br/mamallucatv/mamallucatv/playlist.m3u8
-#EXTINF:-1 tvg-id="1476" tvg-name="Urban Pro DJ" tvg-logo="https://i2.paste.pics/5aed2aa69dbe9107dac26945d8e0f05c.png", Urban Pro DJ * | CL
-https://vdochile.com:3119/stream/play.m3u8
-#EXTINF:-1 tvg-id="1474" tvg-name="WF9" tvg-logo="https://i2.paste.pics/82bfc4cf5af7c8e65bbb2711cc1680d3.png", WF9 * | CL
-https://5eaccbab48461.streamlock.net:1936/8240/8240/playlist.m3u8
-#EXTINF:-1 tvg-id="1473" tvg-name="Music PUQ" tvg-logo="https://i2.paste.pics/e011164c3dcd24bc2f5f7924677e3891.png", Music PUQ * | CL
-https://vdochile.com:3761/live/redupxprlive.m3u8
-#EXTINF:-1 tvg-id="1472" tvg-name="La Nuestra" tvg-logo="https://i2.paste.pics/45043ca151a5f9ab3e8c62078c79ab26.png", La Nuestra * | CL
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1287" tvg-name="SILA TV" tvg-logo="https://i2.paste.pics/bd867f1a431411c9720ec246807ade49.png", SILA TV * | CL
+https://tvsms.club/tv.php?kanal=silatv&file=.m3u8
+#EXTINF:-1 tvg-id="1098" tvg-name="ZEYNO TV" tvg-logo="https://i2.paste.pics/bf68b159547597c39574aec9dd7c626a.png", ZEYNO TV * | CL
+https://tvsms.club/tv.php?kanal=zeynotv&file=.m3u8
+#EXTINF:-1 tvg-id="897" tvg-name="EZO TV" tvg-logo="https://i2.paste.pics/90f2f266cb4f68333119a06b99d65d10.png", EZO TV * | CL
+https://tvsms.club/tvz.php?kanal=ezo&file=.m3u8
+#EXTINF:-1 tvg-id="1482" tvg-name="TOP POP TV" tvg-logo="https://i2.paste.pics/b242fea3347af3f807d518f3b834d2c1.png", TOP POP TV * | CL
+https://tvsms.club/tvz.php?kanal=toppop&file=.m3u8
+#EXTINF:-1 tvg-id="1481" tvg-name="AVIVA TV" tvg-logo="https://i2.paste.pics/5304dac5430b156b0909c664448fdc7a.png", AVIVA TV * | CL
+https://tvsms.club/tv.php?kanal=vivatv&file=.m3u8
+#EXTINF:-1 tvg-id="1476" tvg-name="ARMA TV" tvg-logo="https://i2.paste.pics/5aed2aa69dbe9107dac26945d8e0f05c.png", ARMA TV * | CL
+https://tvsms.club/tvz.php?kanal=arma&file=.m3u8
+#EXTINF:-1 tvg-id="1474" tvg-name="GENC SMS" tvg-logo="https://i2.paste.pics/82bfc4cf5af7c8e65bbb2711cc1680d3.png", GENC SMS * | CL
+https://tvsms.club/tv.php?kanal=genctv&file=.m3u8
+#EXTINF:-1 tvg-id="1473" tvg-name="EURO 90" tvg-logo="https://i2.paste.pics/e011164c3dcd24bc2f5f7924677e3891.png", EURO 90 * | CL
+https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8
+#EXTINF:-1 tvg-id="1472" tvg-name="NATURAL TV" tvg-logo="https://i2.paste.pics/45043ca151a5f9ab3e8c62078c79ab26.png", NATURAL TV * | CL
+https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="1469" tvg-name="TV Canal 5" tvg-logo="https://i2.paste.pics/fc72e5076205656f9240cf2c19659f51.png", TV Canal 5 * | CL
 https://vdochile.com:3088/stream/play.m3u8
 #EXTINF:-1 tvg-id="1468" tvg-name="Radio Araucania Laja" tvg-logo="https://i2.paste.pics/f49ac74349c5d554de967f2387274e12.png", Radio Araucania Laja * | CL
