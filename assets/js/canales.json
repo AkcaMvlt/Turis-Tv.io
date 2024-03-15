@@ -34,37 +34,29 @@
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-s2": {
-        "nombre": "24 Horas s2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8",
+    "TATLISES TV": {
+        "nombre": "TATLISES TV",
+        "m3u8_url": "https://live.artidijitalmedya.com/artidijital_tatlisestv/tatlisestv/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "24-horas-s2-2": {
-        "nombre": "24 Horas s2 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8",
+    "NR 1 TURK": {
+        "nombre": "NR 1 TURK",
+        "m3u8_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
+
     },
-    "tvn": {
-        "nombre": "TVN",
-        "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
-        "pais": "cl"
-    },
-    "tvn-2": {
-        "nombre": "TVN 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+    "NR 1": {
+        "nombre": "NR 1",
+        "m3u8_url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
+
     },
-    "meganoticias": {
-        "nombre": "Meganoticias",
-        "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
-        "pais": "cl"
-    },
-    "meganoticias-2": {
-        "nombre": "Meganoticias 2",
-        "iframe_url": "https://player.twitch.tv/?channel=meganoticiascl&parent=alplox.github.io",
+    "POWER TURK": {
+        "nombre": "POWER TURK",
+        "iframe_url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b5250000_sltur.m3u8",
         "fuente": "https://www.twitch.tv/meganoticiascl",
         "pais": "cl"
     },
