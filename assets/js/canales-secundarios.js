@@ -39,7 +39,7 @@ function m3utojson(m3u) {
 // https://www.m3u.cl/iptv-chile.php
 let m3u = `
 #EXTM3U
-#EXTINF:-1 tvg-id="4" tvg-name="AFYON TÜRK" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", AFYON TÜRK * | CL
+#EXTINF:-1 tvg-id="4" tvg-name="AFYON TÜR" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", AFYON TÜR * | CL
 https://tv.digitalbox.xyz:19360/afyonturktv/afyonturktv.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="KRAL POP TV" tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png", KRAL POP TV * | CL
 http://dygvideo.dygdigital.com/live/hls/kralpop
