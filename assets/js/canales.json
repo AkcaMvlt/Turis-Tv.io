@@ -1,9 +1,9 @@
 {
 
-    "Mülayim TÜRK": {
-        "nombre": "🎵 X desire",
-        "m3u8_url": "http://62.210.123.134:98/live/an75d/75d/99.m3u8",
-        "fuente": "https://www.24horas.cl/envivo/",
+    "KANAL 19": {
+        "nombre": "🎵 KANAL 19",
+        "iframe_url": "https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8",
+        "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
             },
     "AFYON TÜRK": {
