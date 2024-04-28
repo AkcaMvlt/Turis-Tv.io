@@ -121,7 +121,7 @@
     },
     "DAMAR TV": {
         "nombre": "🎵 DAMAR TV",
-        "iframe_url": "https://tvsms.club/tv.php?kanal=damar&file=.m3u8",
+        "iframe_url": "https://yayin.santraltr.com/hls/damar.m3u8",
         "fuente": "https://www.chvnoticias.cl/senal-online/",
         "pais": "cl"
 
