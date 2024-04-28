@@ -166,7 +166,8 @@
     },
     "KANAL 19": {
         "nombre": "🎵 KANAL 19",
-        "iframe_url": "https://edge1.socialsmart.tv/naturaltv/bant1/playlist.m3u8",
+        "iframe_url": "https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
+",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
 
