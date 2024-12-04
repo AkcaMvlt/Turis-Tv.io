@@ -1,12 +1,12 @@
 {
 
-    "KANAL 19": {
+    "VOSTOK TV": {
         "nombre": "🎵 VOSTOK TV",
         "iframe_url": "https://euro90tv-live.cdnnew.com/euro90tv/e9090.m3u8",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
             },
-    "AFYON TÜRK": {
+    "BOLLYWOOD": {
         "nombre": "🎵 BOLLYWOOD",
         "m3u8_url": "https://yt3.ggpht.com/ytc/AIdro_kB0eK0gCOLryTv46FFXYHTXZfH7txUUvfJYOL5zzRzag",
         "fuente": "https://www.24horas.cl/envivo/",
